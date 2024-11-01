@@ -1,0 +1,229 @@
+= 2.6.0 [9th October 2024] =
+
+* Fixed: Critical error fixed in Editor mode
+
+= 2.5.16 [8th October 2024] =
+
+* Fixed: System Security improved (Thanks to Joao Pedro)
+
+= 2.5.15 [19th September 2024] =
+
+* Updated: System improved
+
+= 2.5.13 [11th September 2024] =
+
+* Updated: System improved
+
+= 2.5.12 [2nd September 2024] =
+
+* Fixed: System Security improved (Thanks to Patchstack)
+
+= 2.5.11 [1st September 2024] =
+
+* Updated: Swiper Library updated
+
+= 2.5.10 [29th August 2024] =
+
+* Updated: Waypoint.js replaced with Intersection Observer
+* Fixed: Ripple issue fixed (Thanks to Brandon)
+
+= 2.5.8 [1st August 2024] =
+
+* Updated: System Improved
+
+= 2.5.4 [28th May 2024] =
+
+* Fixed: List Align issue fixed in Tidy List widget
+
+= 2.5.3 [5th May 2024] =
+
+* Fixed: Spacing issue fixed in Tidy List widget
+* Fixed: Pagination Color fixed in Advanced Slider widget
+
+= 2.5.2 [4th May 2024] =
+
+* Added: Image Contain feature added in Card widget
+* Fixed: Icon padding issue fixed in Advanced Accordion widget
+* Fixed: Icon Color issue fixed in Info Box widget
+
+= 2.5.1 [9th April 2024] =
+
+* Updated: System Improved
+
+= 2.5.0 [8th March 2024] =
+
+* Fixed: Security issue fixed
+
+= 2.4.0 [30th January 2024] =
+
+* Fixed: Design issue fixed in Mate Slider (Thanks to adqa)
+* Updated: Swiper Library upgrade.
+
+= 2.3.3 [26th December 2023] =
+
+* Updated: System Improved
+
+= 2.3.2 [15th November 2023] =
+
+* Updated: System Improved
+
+= 2.3.1 [25th September 2023] =
+
+* Fixed: Critical error fixed (Thanks to Mohammad)
+
+= 2.3.0 [24th September 2023] =
+
+* Added: Audio Player widget added
+* Added: Changelog widget added
+
+= 2.1.5 [29th August 2023] =
+
+* Added: Link on feature added in Panel Slider widget
+* Added: Title Hover Color feature added in Panel Slider widget
+
+= 2.1.4 [12th August 2023] =
+
+* Added: WordPress 6.3 Compatibility added
+* Updated: System Improved
+
+= 2.1.3 [26th July 2023] =
+
+* Updated: System Improved
+
+= 2.1.2 [25th June 2023] =
+
+* Updated: System Improved
+
+= 2.1.1 [10th June 2023] =
+
+* Fixed: Inline/SVG Icon issue fixed in Card, Info Box, Advanced Slider, Panel Slider, PDF Viewer widget
+
+= 2.1.0 [26th May 2023] =
+
+* Added: Animated Heading widget added
+
+= 2.0.9 [13th May 2023] =
+
+* Fixed: BackdropFilter fixed for Container Layout
+* Fixed: Trigger Icon Size issue fixed in Advanced Accordion widget
+* Fixed: Target issue fixed in Tidy List & List Group widget
+* Fixed: Close Icon (SVG) fixed in Advanced Accordion widget
+
+= 2.0.8 [1st April 2023] =
+
+* Added: WordPress 6.2 Compatibility added
+* Added: Elementor 3.12.0 Compatibility added
+
+= 2.0.7 [18th February 2023] =
+
+* Updated: Readme File Updated
+
+= 2.0.6 [18th February 2023] =
+
+* Fixed: Slider & Carousel Layout Broken Issue Fixed (Thanks to chenfeng)
+* Updated: System Improved for Slider & Carousel
+
+= 2.0.5 [05th February 2023] =
+
+* Added: Thumbnail option added in Advanced Slider
+* Updated: System Improved for Better Performance
+
+= 2.0.4 [10th January 2023] =
+
+* Fixed: Deprecation issue fixed
+
+= 2.0.3 [25th December 2022] =
+
+* Added: Sub Title added in Advanced Slider Widget
+* Updated: Navigation & Pagination Style updated in Advanced Slider Widget
+* Updated: Number Widget Updated
+
+= 2.0.2 [10th December 2022] =
+
+* Updated: Navigation & Pagination updated in Stellar Slider Widget
+
+= 2.0.1 [23th November 2022] =
+
+* Added: Stellar Slider Widget Added
+* Updated: All Section Extensions available now for Container also.
+
+= 2.0.0 [1st November 2022] =
+
+* Added: Templates Library Added
+* Added: Slinky Menu (Vertical) Widget Added
+* Added: Reveal Effects Extensions Added
+
+= 1.5.0 [24th September 2022] =
+
+* Added: Mate List Widget Added
+* Added: Mate Carousel Widget Added
+* Added: Sapling Grid Widget Added
+* Added: Sapling Carousel Widget Added
+* Added: Luster Grid Widget Added
+* Added: Luster Carousel Widget Added
+* Added: Naive List Widget Added
+* Added: Naive Carousel Widget Added
+* Added: Ultra Grid Widget Added
+* Added: Ultra Carousel Widget Added
+* Added: Generic Grid Widget Added
+* Added: Generic Carousel Widget Added
+* Added: Video Feature added in Mate Slider, Post List Widgets
+* Fixed: Design Breaks issue fixed in Pagination
+
+= 1.0.11 [31th August 2022] =
+
+* Added: Fellow Slider Widget Added
+* Added: Mate Slider Widget Added
+
+= 1.0.10 [8th August 2022] =
+
+* Added: Panel Slider Widget added
+* Added: Post List Widget added
+* Added: Backdrop Filter Extensions added
+* Added: Custom Clip-Path Extensions added in Image Widget
+* Added: Light-box feature added in Logo Carousel Widget
+* Fixed: Alignment Issue fixed in Testimonial Widget (Thanks to Said Hasyim)
+
+= 1.0.9 [13th June 2022] =
+
+* Added: Ripples Effect Extensions added
+* Added: Table of Contents Widget added
+* Fixed: RTL issue fixed in Content Switcher Widget (Thanks to Zakaria Zahidi)
+
+= 1.0.8 [17th May 2022] =
+
+* Added: Animated Gradient Background Extensions added
+
+= 1.0.7 [9th April 2022] =
+
+* Added: Glory Video Slider added
+* Added: Title Icon added in Accordion Widget
+* Updated: All Carousel Widgets Optimized
+
+= 1.0.6 [18th March 2022] =
+
+* Added: Widgets Analytics added in Dashboard
+* Updated: Performance Improved  
+
+= 1.0.5 [2nd March 2022] =
+
+* Added: PDF Viewer Widget added
+* Added: Content Switcher Widget added
+
+= 1.0.4 [1st Feb 2022] =
+
+* Added: Logo Carousel Widget added
+* Added: Equal Height Extensions added
+
+= 1.0.2 [19th Jan 2022] =
+
+* Fixed: RTL issue fixed
+
+= 1.0.1 [18th Jan 2022] =
+
+* Fixed: Notice design broken issue fixed
+* Updated: UI design improved
+
+= 1.0.0 [06th Jan 2022] =
+
+*  Initial Release

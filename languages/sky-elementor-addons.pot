@@ -1,0 +1,4399 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Techfyd
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <support@techfyd.com>, YEAR.
+#
+#: includes/admin.php:698 includes/admin.php:707 includes/admin.php:716
+#: modules/advanced-accordion/widgets/advanced-accordion.php:149
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:185
+#: modules/advanced-slider/widgets/advanced-slider.php:156
+#: modules/advanced-slider/widgets/advanced-slider.php:288
+#: modules/content-switcher/widgets/content-switcher.php:77
+#: modules/content-switcher/widgets/content-switcher.php:195
+#: modules/list-group/widgets/list-group.php:232
+#: modules/momentum-slider/widgets/momentum-slider.php:112
+#: modules/tidy-list/widgets/tidy-list.php:195
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Techfyd v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-09 01:58+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <support@techfyd.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.php:54 plugin.php:66 base/module-base.php:32 base/module-base.php:43
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: plugin.php:274 includes/admin.php:88
+msgid "Sky Addons"
+msgstr ""
+
+#: sky-elementor-addons.php:84
+msgid ""
+"Sky Elementor Addons is not working because you need to activate the "
+"Elementor plugin."
+msgstr ""
+
+#: sky-elementor-addons.php:85
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: sky-elementor-addons.php:93
+msgid ""
+"Sky Elementor Addons is not working because you need to install the Elemenor "
+"plugin"
+msgstr ""
+
+#: sky-elementor-addons.php:94
+msgid "Install Elementor Now"
+msgstr ""
+
+#: sky-elementor-addons.php:109
+msgid ""
+"Sky Elementor Addons is not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: sky-elementor-addons.php:110
+msgid "Update Elementor Now"
+msgstr ""
+
+#: includes/admin.php:47
+msgid ""
+"<strong>Widgets Analytics not working. </strong> Please activate Data "
+"Sharing features to make it workable from here - <strong> Elementor > "
+"Settings > General > Usage Data Sharing</strong>"
+msgstr ""
+
+#: includes/admin.php:92 includes/views/admin/dashboard.php:30
+#: includes/views/admin/dashboard.php:884
+#: includes/views/admin/dashboard.php:887
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin.php:96 includes/views/admin/dashboard.php:50
+#: includes/views/admin/dashboard.php:923
+#: includes/views/admin/dashboard.php:926 modules/equal-height/module.php:58
+msgid "Widgets"
+msgstr ""
+
+#: includes/admin.php:100 includes/views/admin/dashboard.php:70
+#: includes/views/admin/dashboard.php:936
+#: includes/views/admin/dashboard.php:939
+msgid "Extensions"
+msgstr ""
+
+#: includes/admin.php:104 includes/views/admin/dashboard.php:90
+#: includes/views/admin/dashboard.php:910
+#: includes/views/admin/dashboard.php:913
+msgid "API Data"
+msgstr ""
+
+#: includes/admin.php:108 includes/views/admin/dashboard.php:113
+msgid "Analytics"
+msgstr ""
+
+#: includes/admin.php:112
+msgid "Get PRO"
+msgstr ""
+
+#: includes/admin.php:268 modules/advanced-accordion/module.info.php:7
+#: modules/advanced-accordion/widgets/advanced-accordion.php:30
+msgid "Advanced Accordion"
+msgstr ""
+
+#: includes/admin.php:279
+msgid "Advanced Counter"
+msgstr ""
+
+#: includes/admin.php:290 modules/advanced-skill-bars/module.info.php:7
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:27
+msgid "Advanced Skill Bars"
+msgstr ""
+
+#: includes/admin.php:301 modules/advanced-slider/module.info.php:7
+#: modules/advanced-slider/widgets/advanced-slider.php:33
+msgid "Advanced Slider"
+msgstr ""
+
+#: includes/admin.php:312
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/admin.php:323 modules/card/module.info.php:7
+#: modules/card/widgets/card.php:31 modules/card/widgets/card.php:55
+#: modules/card/widgets/card.php:389
+msgid "Card"
+msgstr ""
+
+#: includes/admin.php:334 modules/content-switcher/module.info.php:7
+#: modules/content-switcher/widgets/content-switcher.php:29
+#: modules/content-switcher/widgets/content-switcher.php:53
+msgid "Content Switcher"
+msgstr ""
+
+#: includes/admin.php:345
+msgid "Dark Mode"
+msgstr ""
+
+#: includes/admin.php:356 modules/dual-button/module.info.php:7
+#: modules/dual-button/widgets/dual-button.php:28
+msgid "Dual Button"
+msgstr ""
+
+#: includes/admin.php:367
+msgid "Glory Slider"
+msgstr ""
+
+#: includes/admin.php:378 modules/image-compare/widgets/image-compare.php:28
+#: modules/image-compare/widgets/image-compare.php:57
+msgid "Image Compare"
+msgstr ""
+
+#: includes/admin.php:389 modules/info-box/module.info.php:7
+#: modules/info-box/widgets/info-box.php:31
+#: modules/info-box/widgets/info-box.php:388
+msgid "Info Box"
+msgstr ""
+
+#: includes/admin.php:400 modules/list-group/module.info.php:7
+#: modules/list-group/widgets/list-group.php:29
+#: modules/list-group/widgets/list-group.php:60
+msgid "List Group"
+msgstr ""
+
+#: includes/admin.php:411 modules/logo-carousel/module.info.php:7
+#: modules/logo-carousel/widgets/logo-carousel.php:36
+msgid "Logo Carousel"
+msgstr ""
+
+#: includes/admin.php:422 modules/logo-grid/module.info.php:7
+#: modules/logo-grid/widgets/logo-grid.php:30
+#: modules/logo-grid/widgets/logo-grid.php:358
+msgid "Logo Grid"
+msgstr ""
+
+#: includes/admin.php:433 modules/momentum-slider/module.info.php:7
+#: modules/momentum-slider/widgets/momentum-slider.php:29
+#: modules/momentum-slider/widgets/momentum-slider.php:65
+#: modules/momentum-slider/widgets/momentum-slider.php:268
+msgid "Momentum Slider"
+msgstr ""
+
+#: includes/admin.php:444 modules/image-compare/module.info.php:7
+#: modules/list-group/widgets/list-group.php:83
+#: modules/list-group/widgets/list-group.php:121
+#: modules/momentum-slider/widgets/momentum-slider.php:301
+#: modules/number/module.info.php:7 modules/number/widgets/number.php:26
+#: modules/number/widgets/number.php:50 modules/number/widgets/number.php:58
+#: modules/number/widgets/number.php:102
+#: modules/tidy-list/widgets/tidy-list.php:108
+#: modules/tidy-list/widgets/tidy-list.php:147
+msgid "Number"
+msgstr ""
+
+#: includes/admin.php:455 modules/pdf-viewer/module.info.php:7
+#: modules/pdf-viewer/widgets/pdf-viewer.php:30
+#: modules/pdf-viewer/widgets/pdf-viewer.php:59
+#: modules/pdf-viewer/widgets/pdf-viewer.php:358
+msgid "PDF Viewer"
+msgstr ""
+
+#: includes/admin.php:466 modules/portion-effect/module.info.php:7
+#: modules/portion-effect/widgets/portion-effect.php:24
+msgid "Portion Effect"
+msgstr ""
+
+#: includes/admin.php:477 modules/reading-progress/module.info.php:7
+#: modules/reading-progress/widgets/reading-progress.php:24
+#: modules/reading-progress/widgets/reading-progress.php:61
+#: modules/reading-progress/widgets/reading-progress.php:274
+msgid "Reading Progress"
+msgstr ""
+
+#: includes/admin.php:488 modules/review/module.info.php:7
+#: modules/review/widgets/review.php:30 modules/review/widgets/review.php:186
+#: modules/review/widgets/review.php:288 modules/review/widgets/review.php:834
+msgid "Review"
+msgstr ""
+
+#: includes/admin.php:499
+msgid "Review Carousel"
+msgstr ""
+
+#: includes/admin.php:510 modules/social-icons/module.info.php:7
+#: modules/social-icons/widgets/social-icons.php:29
+#: modules/social-icons/widgets/social-icons.php:61
+#: modules/social-icons/widgets/social-icons.php:292
+#: modules/social-icons/widgets/social-icons.php:416
+#: modules/team-member/widgets/team-member.php:1462
+msgid "Social Icons"
+msgstr ""
+
+#: includes/admin.php:521 modules/step-flow/module.info.php:7
+#: modules/step-flow/widgets/step-flow.php:28
+#: modules/step-flow/widgets/step-flow.php:197
+msgid "Step Flow"
+msgstr ""
+
+#: includes/admin.php:532 modules/team-member/module.info.php:7
+#: modules/team-member/widgets/team-member.php:32
+msgid "Team Member"
+msgstr ""
+
+#: includes/admin.php:543 modules/testimonial/module.info.php:7
+#: modules/testimonial/widgets/testimonial.php:29
+#: modules/testimonial/widgets/testimonial.php:53
+#: modules/testimonial/widgets/testimonial.php:60
+#: modules/testimonial/widgets/testimonial.php:179
+msgid "Testimonial"
+msgstr ""
+
+#: includes/admin.php:554
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: includes/admin.php:565 modules/tidy-list/module.info.php:7
+#: modules/tidy-list/widgets/tidy-list.php:29
+#: modules/tidy-list/widgets/tidy-list.php:53
+msgid "Tidy List"
+msgstr ""
+
+#: includes/admin.php:576
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/admin.php:587
+msgid "Video Gallery"
+msgstr ""
+
+#: includes/admin.php:602
+msgid "Advanced Tooltip"
+msgstr ""
+
+#: includes/admin.php:613 modules/equal-height/module.info.php:5
+msgid "Equal Height"
+msgstr ""
+
+#: includes/admin.php:624 modules/floating-effects/module.info.php:5
+#: modules/floating-effects/module.php:33
+msgid "Floating Effects"
+msgstr ""
+
+#: includes/admin.php:635
+msgid "Particles"
+msgstr ""
+
+#: includes/admin.php:646 modules/wrapper-link/module.info.php:5
+msgid "Wrapper Link"
+msgstr ""
+
+#: includes/admin.php:661
+msgid "Google Map"
+msgstr ""
+
+#: includes/admin.php:662
+msgid "API Key"
+msgstr ""
+
+#: includes/admin.php:663
+msgid ""
+"Google Maps API is a service that offers detailed maps and other geographic "
+"information for use in online and offline map applications, and websites."
+msgstr ""
+
+#: includes/admin.php:674
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: includes/admin.php:675
+msgid "Access Key"
+msgstr ""
+
+#: includes/admin.php:676
+msgid ""
+"Mailchimp is a popular marketing and automation platform for small "
+"businesses."
+msgstr ""
+
+#: includes/admin.php:682 includes/admin.php:683
+msgid "Audience ID"
+msgstr ""
+
+#: includes/admin.php:684
+msgid ""
+"Each Mailchimp audience has a unique audience ID (sometimes called a list "
+"ID) ."
+msgstr ""
+
+#: includes/admin.php:696
+msgid "Instagram"
+msgstr ""
+
+#: includes/admin.php:697
+msgid "App Id"
+msgstr ""
+
+#: includes/admin.php:705 includes/admin.php:706
+msgid "App Secret"
+msgstr ""
+
+#: includes/admin.php:714 includes/admin.php:715
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin.php:789
+msgid "Successfully Updated."
+msgstr ""
+
+#: includes/admin.php:790
+msgid "Great, your settings saved successfully in your system."
+msgstr ""
+
+#: includes/admin.php:793
+msgid "Already Updated."
+msgstr ""
+
+#: includes/admin.php:794
+msgid ""
+"There is no change in your settings. So there is no need to save the "
+"settings again."
+msgstr ""
+
+#: includes/admin.php:805
+msgid "Thank you for using Sky Addons."
+msgstr ""
+
+#: includes/admin.php:808
+msgid "@copyright 2021"
+msgstr ""
+
+#: includes/functions.php:82
+msgid "Edit Template"
+msgstr ""
+
+#: includes/functions.php:100
+msgid "Template Not Found!"
+msgstr ""
+
+#: includes/functions.php:102 includes/functions.php:128
+#: modules/advanced-accordion/widgets/advanced-accordion.php:125
+#: modules/advanced-accordion/widgets/advanced-accordion.php:137
+#: modules/advanced-slider/widgets/advanced-slider.php:132
+#: modules/advanced-slider/widgets/advanced-slider.php:144
+#: modules/content-switcher/widgets/content-switcher.php:129
+#: modules/content-switcher/widgets/content-switcher.php:141
+msgid "Select Template"
+msgstr ""
+
+#: includes/functions.php:134
+msgid "AE Plugin Not Installed"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:168
+msgid "Get Pro"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:189
+msgid "License"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:221
+msgid "Sky Elementor Addons"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:224
+msgid ""
+"Power to create stunning websites with one-click. Create beautiful, "
+"<br>mobile-ready sites in minutes."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:228
+msgid "Version -"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:230
+msgid " (free)"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:249
+#: includes/views/admin/dashboard.php:975
+#: includes/views/admin/dashboard.php:978
+msgid "Documentation"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:252
+msgid ""
+"It's hard to create good documentation. It's even harder to make it awesome. "
+"But we think we've solved this for you. We've created a complete package, "
+"with everything you need to make your documentation as awesome as the "
+"product you're building."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:255
+msgid "Check now"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:267
+msgid "Widgets Demo"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:270
+msgid ""
+"We are making an easy way to create your own website. With Widget Demo, you "
+"can launch your website in just a few minutes. You can create unlimited free "
+"demo site with more than 1000+ design layouts. All designs are fully "
+"responsive and ready-to-use."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:273
+msgid "Live Demo"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:285
+msgid "Need Help?"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:288
+msgid ""
+"Customer satisfaction is our top priority. We take pride in the support we "
+"provide our users. Whether you need help with our app or want to provide "
+"feedback or ask a question, please don't hesitate to contact us right away."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:291
+msgid "Support Ticket"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:308
+#: includes/views/admin/dashboard.php:433
+#: includes/views/admin/dashboard.php:593
+#: includes/views/admin/dashboard.php:730
+msgid ""
+"Let’s make your streaming experience hassle-free. You can control every "
+"feature of Sky Addons by activating or deactivating from here."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:313
+#: includes/views/admin/dashboard.php:438
+#: includes/views/admin/dashboard.php:598
+#: includes/views/admin/dashboard.php:735
+msgid "Enable All"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:316
+#: includes/views/admin/dashboard.php:441
+#: includes/views/admin/dashboard.php:601
+#: includes/views/admin/dashboard.php:738
+msgid "Disable All"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:342
+#: includes/views/admin/dashboard.php:466
+#: includes/views/admin/dashboard.php:541
+#: includes/views/admin/dashboard.php:626
+#: includes/views/admin/dashboard.php:763
+#: includes/views/admin/dashboard.php:864
+msgid "Pro"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:347
+#: includes/views/admin/dashboard.php:471
+#: includes/views/admin/dashboard.php:631
+#: includes/views/admin/dashboard.php:768
+msgid "New"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:372
+#: includes/views/admin/dashboard.php:382
+#: includes/views/admin/dashboard.php:482
+#: includes/views/admin/dashboard.php:667
+#: includes/views/admin/dashboard.php:788
+msgid "See Demo"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:419
+#: includes/views/admin/dashboard.php:520
+#: includes/views/admin/dashboard.php:577
+#: includes/views/admin/dashboard.php:714
+#: includes/views/admin/dashboard.php:832
+msgid "Save Settings"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:531
+msgid ""
+"Sometimes you want to use advanced features of API-related functionality. In "
+"this case, sometimes we need an API key to access your data. You can store "
+"your API keys here. If you are not using below widgets then you can skip the "
+"section."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:843
+msgid "Why Pro?"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:846
+msgid "No restrictions on the number of features, widgets, or CSS styles."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:848
+msgid ""
+"We have a lot of extra features that will allow the user to have a better "
+"experience."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:861
+#: includes/views/admin/dashboard.php:928
+#: includes/views/admin/dashboard.php:941
+msgid "Free"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:871
+#: includes/views/admin/dashboard.php:876
+msgid "year"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:897
+#: includes/views/admin/dashboard.php:900
+msgid "Features"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:902
+#: includes/views/admin/dashboard.php:915
+msgid "Limited"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:949
+#: includes/views/admin/dashboard.php:952
+msgid "Dynamic Content"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:962
+#: includes/views/admin/dashboard.php:965
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:988
+#: includes/views/admin/dashboard.php:991
+msgid "Updates & Support"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1001
+#: includes/views/admin/dashboard.php:1004
+msgid "Special support"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1014
+#: includes/views/admin/dashboard.php:1017
+msgid "Manual Update"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1024
+msgid "Comments"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1027
+msgid "Note"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1030
+msgid ""
+"Regular updates and other goodies to make sure you never get stuck for a "
+"solution."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1032
+msgid "We will recommend you to use the Pro version."
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1043
+#: modules/pdf-viewer/widgets/pdf-viewer.php:250
+#: modules/pdf-viewer/widgets/pdf-viewer.php:252
+msgid "Download"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1048
+msgid "Buy Now"
+msgstr ""
+
+#: includes/views/admin/dashboard.php:1057
+msgid ""
+"<i>We have a <b>30 day money-back guarantee</b>, meaning that you can try "
+"our product for a month <br> and if you don't love it, we'll refund your "
+"purchase.</i>"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:67
+#: modules/info-box/widgets/info-box.php:63
+#: modules/logo-carousel/widgets/logo-carousel.php:72
+#: modules/logo-grid/widgets/logo-grid.php:66
+#: modules/portion-effect/widgets/portion-effect.php:48
+#: modules/review/widgets/review.php:59
+#: modules/step-flow/widgets/step-flow.php:52
+#: modules/tidy-list/widgets/tidy-list.php:61
+msgid "Layout"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:77
+#: modules/advanced-accordion/widgets/advanced-accordion.php:464
+#: modules/advanced-slider/widgets/advanced-slider.php:81
+#: modules/advanced-slider/widgets/advanced-slider.php:279
+#: modules/advanced-slider/widgets/advanced-slider.php:999
+#: modules/card/widgets/card.php:121 modules/card/widgets/card.php:1046
+#: modules/content-switcher/widgets/content-switcher.php:93
+#: modules/glory-slider/widgets/glory-slider.php:252
+#: modules/image-compare/widgets/image-compare.php:244
+#: modules/image-compare/widgets/image-compare.php:789
+#: modules/info-box/widgets/info-box.php:198
+#: modules/info-box/widgets/info-box.php:921
+#: modules/list-group/widgets/list-group.php:133
+#: modules/list-group/widgets/list-group.php:646
+#: modules/logo-carousel/widgets/logo-carousel.php:685
+#: modules/logo-grid/widgets/logo-grid.php:765
+#: modules/momentum-slider/widgets/momentum-slider.php:75
+#: modules/momentum-slider/widgets/momentum-slider.php:344
+#: modules/pdf-viewer/widgets/pdf-viewer.php:199
+#: modules/pdf-viewer/widgets/pdf-viewer.php:422
+#: modules/step-flow/widgets/step-flow.php:73
+#: modules/step-flow/widgets/step-flow.php:920
+#: modules/team-member/widgets/team-member.php:338
+#: modules/testimonial/widgets/testimonial.php:148
+#: modules/testimonial/widgets/testimonial.php:460
+#: modules/tidy-list/widgets/tidy-list.php:159
+#: modules/tidy-list/widgets/tidy-list.php:687
+msgid "Title"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:80
+msgid "Accordion Title"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:88
+#: modules/advanced-accordion/widgets/advanced-accordion.php:674
+msgid "Title Icon"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:99
+#: modules/advanced-slider/widgets/advanced-slider.php:67
+#: modules/content-switcher/widgets/content-switcher.php:103
+msgid "Choose Source"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:103
+#: modules/advanced-accordion/widgets/advanced-accordion.php:113
+#: modules/advanced-slider/widgets/advanced-slider.php:71
+#: modules/content-switcher/widgets/content-switcher.php:107
+msgid "Custom Content"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:104
+#: modules/advanced-slider/widgets/advanced-slider.php:72
+#: modules/content-switcher/widgets/content-switcher.php:108
+msgid "Elementor Template"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:105
+#: modules/advanced-slider/widgets/advanced-slider.php:73
+#: modules/content-switcher/widgets/content-switcher.php:109
+msgid "AE Template"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:115
+#: modules/advanced-slider/widgets/advanced-slider.php:95
+#: modules/advanced-slider/widgets/advanced-slider.php:163
+#: modules/advanced-slider/widgets/advanced-slider.php:167
+#: modules/advanced-slider/widgets/advanced-slider.php:171
+#: modules/advanced-slider/widgets/advanced-slider.php:175
+#: modules/content-switcher/widgets/content-switcher.php:119
+#: modules/testimonial/widgets/testimonial.php:66
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:116
+#: modules/advanced-slider/widgets/advanced-slider.php:96
+#: modules/card/widgets/card.php:185
+#: modules/content-switcher/widgets/content-switcher.php:120
+#: modules/info-box/widgets/info-box.php:223
+#: modules/step-flow/widgets/step-flow.php:99
+msgid "Type your description here"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:154
+msgid "Add Your Title Here #1"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:157
+msgid "Add Your Title Here #2"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:160
+msgid "Add Your Title Here #3"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:163
+msgid "Add Your Title Here #4"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:173
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:299
+#: modules/advanced-slider/widgets/advanced-slider.php:309
+#: modules/card/widgets/card.php:133
+#: modules/glory-slider/widgets/glory-slider.php:522
+#: modules/image-compare/widgets/image-compare.php:254
+#: modules/info-box/widgets/info-box.php:210
+#: modules/list-group/widgets/list-group.php:310
+#: modules/momentum-slider/widgets/momentum-slider.php:137
+#: modules/pdf-viewer/widgets/pdf-viewer.php:214
+#: modules/step-flow/widgets/step-flow.php:85
+#: modules/tidy-list/widgets/tidy-list.php:319
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:184
+msgid "Show Title Icon?"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:192
+msgid "Icon Alignment"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:196
+msgid "Start"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:200
+msgid "End"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:214
+#: modules/advanced-accordion/widgets/advanced-accordion.php:904
+#: modules/advanced-slider/widgets/advanced-slider.php:553
+#: modules/card/widgets/card.php:332
+#: modules/content-switcher/widgets/content-switcher.php:153
+#: modules/dual-button/widgets/dual-button.php:152
+#: modules/dual-button/widgets/dual-button.php:265
+#: modules/dual-button/widgets/dual-button.php:391
+#: modules/info-box/widgets/info-box.php:76
+#: modules/info-box/widgets/info-box.php:329
+#: modules/list-group/widgets/list-group.php:75
+#: modules/momentum-slider/widgets/momentum-slider.php:199
+#: modules/pdf-viewer/widgets/pdf-viewer.php:301
+#: modules/review/widgets/review.php:238
+#: modules/social-icons/widgets/social-icons.php:70
+#: modules/social-icons/widgets/social-icons.php:680
+#: modules/step-flow/widgets/step-flow.php:60
+#: modules/step-flow/widgets/step-flow.php:248
+#: modules/team-member/widgets/team-member.php:622
+#: modules/tidy-list/widgets/tidy-list.php:100
+msgid "Icon"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:241
+msgid "Active Icon"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:273
+#: modules/advanced-slider/widgets/advanced-slider.php:361
+#: modules/image-compare/widgets/image-compare.php:318
+msgid "Settings"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:281
+#: modules/floating-effects/module.php:136
+#: modules/floating-effects/module.php:299
+#: modules/floating-effects/module.php:433
+#: modules/floating-effects/module.php:565
+msgid "Duration"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:299
+msgid "Collapse"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:308
+msgid "Show Multiple?"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:316
+msgid "Open Item Default"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:318
+msgid "1 or 1, 2, 3"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:329
+#: modules/advanced-slider/widgets/advanced-slider.php:280
+msgid "Item"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:337
+#: modules/advanced-accordion/widgets/advanced-accordion.php:701
+#: modules/advanced-accordion/widgets/advanced-accordion.php:913
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:567
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:643
+#: modules/advanced-slider/widgets/advanced-slider.php:1403
+#: modules/glory-slider/widgets/glory-slider.php:783
+#: modules/image-compare/widgets/image-compare.php:662
+#: modules/info-box/widgets/info-box.php:473
+#: modules/list-group/widgets/list-group.php:505
+#: modules/list-group/widgets/list-group.php:794
+#: modules/reading-progress/widgets/reading-progress.php:135
+#: modules/review/widgets/review.php:628 modules/review/widgets/review.php:736
+#: modules/review/widgets/review.php:845 modules/review/widgets/review.php:931
+#: modules/social-icons/widgets/social-icons.php:425
+#: modules/social-icons/widgets/social-icons.php:731
+#: modules/team-member/widgets/team-member.php:1473
+#: modules/testimonial/widgets/testimonial.php:312
+#: modules/testimonial/widgets/testimonial.php:412
+#: modules/tidy-list/widgets/tidy-list.php:549
+msgid "Spacing"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:355
+#: modules/advanced-accordion/widgets/advanced-accordion.php:503
+#: modules/advanced-accordion/widgets/advanced-accordion.php:733
+#: modules/advanced-accordion/widgets/advanced-accordion.php:943
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1194
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:727
+#: modules/advanced-slider/widgets/advanced-slider.php:752
+#: modules/advanced-slider/widgets/advanced-slider.php:1085
+#: modules/advanced-slider/widgets/advanced-slider.php:1216
+#: modules/advanced-slider/widgets/advanced-slider.php:1434
+#: modules/card/widgets/card.php:610 modules/card/widgets/card.php:903
+#: modules/card/widgets/card.php:1279
+#: modules/content-switcher/widgets/content-switcher.php:310
+#: modules/content-switcher/widgets/content-switcher.php:548
+#: modules/content-switcher/widgets/content-switcher.php:760
+#: modules/dual-button/widgets/dual-button.php:551
+#: modules/dual-button/widgets/dual-button.php:743
+#: modules/dual-button/widgets/dual-button.php:934
+#: modules/dual-button/widgets/dual-button.php:1008
+#: modules/dual-button/widgets/dual-button.php:1170
+#: modules/glory-slider/widgets/glory-slider.php:893
+#: modules/glory-slider/widgets/glory-slider.php:1063
+#: modules/image-compare/widgets/image-compare.php:597
+#: modules/image-compare/widgets/image-compare.php:758
+#: modules/info-box/widgets/info-box.php:669
+#: modules/info-box/widgets/info-box.php:1184
+#: modules/list-group/widgets/list-group.php:380
+#: modules/list-group/widgets/list-group.php:538
+#: modules/list-group/widgets/list-group.php:825
+#: modules/logo-carousel/widgets/logo-carousel.php:397
+#: modules/logo-carousel/widgets/logo-carousel.php:654
+#: modules/logo-grid/widgets/logo-grid.php:235
+#: modules/logo-grid/widgets/logo-grid.php:734
+#: modules/momentum-slider/widgets/momentum-slider.php:477
+#: modules/number/widgets/number.php:172
+#: modules/pdf-viewer/widgets/pdf-viewer.php:391
+#: modules/pdf-viewer/widgets/pdf-viewer.php:511
+#: modules/review/widgets/review.php:485
+#: modules/review/widgets/review.php:1035
+#: modules/social-icons/widgets/social-icons.php:460
+#: modules/step-flow/widgets/step-flow.php:425
+#: modules/step-flow/widgets/step-flow.php:880
+#: modules/team-member/widgets/team-member.php:1021
+#: modules/team-member/widgets/team-member.php:1525
+#: modules/team-member/widgets/team-member.php:1753
+#: modules/testimonial/widgets/testimonial.php:250
+#: modules/testimonial/widgets/testimonial.php:334
+#: modules/tidy-list/widgets/tidy-list.php:426
+#: modules/tidy-list/widgets/tidy-list.php:582
+#: traits/global-swiper-controls.php:301
+msgid "Border"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:363
+#: modules/advanced-accordion/widgets/advanced-accordion.php:511
+#: modules/advanced-accordion/widgets/advanced-accordion.php:741
+#: modules/advanced-accordion/widgets/advanced-accordion.php:951
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1202
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:463
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:735
+#: modules/advanced-slider/widgets/advanced-slider.php:760
+#: modules/advanced-slider/widgets/advanced-slider.php:1224
+#: modules/advanced-slider/widgets/advanced-slider.php:1330
+#: modules/advanced-slider/widgets/advanced-slider.php:1442
+#: modules/card/widgets/card.php:618 modules/card/widgets/card.php:911
+#: modules/card/widgets/card.php:1287 modules/card/widgets/card.php:1391
+#: modules/content-switcher/widgets/content-switcher.php:321
+#: modules/content-switcher/widgets/content-switcher.php:462
+#: modules/content-switcher/widgets/content-switcher.php:556
+#: modules/content-switcher/widgets/content-switcher.php:768
+#: modules/dual-button/widgets/dual-button.php:559
+#: modules/dual-button/widgets/dual-button.php:643
+#: modules/dual-button/widgets/dual-button.php:751
+#: modules/dual-button/widgets/dual-button.php:836
+#: modules/dual-button/widgets/dual-button.php:942
+#: modules/dual-button/widgets/dual-button.php:1016
+#: modules/dual-button/widgets/dual-button.php:1178
+#: modules/glory-slider/widgets/glory-slider.php:901
+#: modules/glory-slider/widgets/glory-slider.php:1071
+#: modules/image-compare/widgets/image-compare.php:605
+#: modules/image-compare/widgets/image-compare.php:766
+#: modules/info-box/widgets/info-box.php:677
+#: modules/info-box/widgets/info-box.php:1192
+#: modules/info-box/widgets/info-box.php:1267
+#: modules/list-group/widgets/list-group.php:388
+#: modules/list-group/widgets/list-group.php:548
+#: modules/list-group/widgets/list-group.php:833
+#: modules/logo-carousel/widgets/logo-carousel.php:405
+#: modules/logo-carousel/widgets/logo-carousel.php:662
+#: modules/logo-grid/widgets/logo-grid.php:495
+#: modules/logo-grid/widgets/logo-grid.php:742
+#: modules/momentum-slider/widgets/momentum-slider.php:485
+#: modules/momentum-slider/widgets/momentum-slider.php:561
+#: modules/number/widgets/number.php:190
+#: modules/pdf-viewer/widgets/pdf-viewer.php:399
+#: modules/pdf-viewer/widgets/pdf-viewer.php:519
+#: modules/pdf-viewer/widgets/pdf-viewer.php:623
+#: modules/review/widgets/review.php:493
+#: modules/review/widgets/review.php:1043
+#: modules/social-icons/widgets/social-icons.php:468
+#: modules/social-icons/widgets/social-icons.php:613
+#: modules/step-flow/widgets/step-flow.php:433
+#: modules/step-flow/widgets/step-flow.php:888
+#: modules/team-member/widgets/team-member.php:1029
+#: modules/team-member/widgets/team-member.php:1533
+#: modules/team-member/widgets/team-member.php:1654
+#: modules/team-member/widgets/team-member.php:1761
+#: modules/team-member/widgets/team-member.php:1836
+#: modules/testimonial/widgets/testimonial.php:258
+#: modules/testimonial/widgets/testimonial.php:342
+#: modules/tidy-list/widgets/tidy-list.php:434
+#: modules/tidy-list/widgets/tidy-list.php:592
+#: traits/global-swiper-controls.php:309
+msgid "Border Radius"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:376
+#: modules/advanced-accordion/widgets/advanced-accordion.php:544
+#: modules/advanced-accordion/widgets/advanced-accordion.php:597
+#: modules/advanced-accordion/widgets/advanced-accordion.php:650
+#: modules/advanced-accordion/widgets/advanced-accordion.php:774
+#: modules/advanced-accordion/widgets/advanced-accordion.php:827
+#: modules/advanced-accordion/widgets/advanced-accordion.php:880
+#: modules/advanced-accordion/widgets/advanced-accordion.php:984
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1037
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1090
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1163
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:144
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:528
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:717
+#: modules/advanced-slider/widgets/advanced-slider.php:731
+#: modules/advanced-slider/widgets/advanced-slider.php:880
+#: modules/advanced-slider/widgets/advanced-slider.php:1054
+#: modules/advanced-slider/widgets/advanced-slider.php:1150
+#: modules/advanced-slider/widgets/advanced-slider.php:1257
+#: modules/advanced-slider/widgets/advanced-slider.php:1306
+#: modules/advanced-slider/widgets/advanced-slider.php:1477
+#: modules/advanced-slider/widgets/advanced-slider.php:1526
+#: modules/card/widgets/card.php:893 modules/card/widgets/card.php:1320
+#: modules/card/widgets/card.php:1368
+#: modules/content-switcher/widgets/content-switcher.php:368
+#: modules/content-switcher/widgets/content-switcher.php:433
+#: modules/content-switcher/widgets/content-switcher.php:514
+#: modules/content-switcher/widgets/content-switcher.php:623
+#: modules/content-switcher/widgets/content-switcher.php:653
+#: modules/content-switcher/widgets/content-switcher.php:750
+#: modules/dual-button/widgets/dual-button.php:541
+#: modules/dual-button/widgets/dual-button.php:612
+#: modules/dual-button/widgets/dual-button.php:733
+#: modules/dual-button/widgets/dual-button.php:804
+#: modules/dual-button/widgets/dual-button.php:915
+#: modules/dual-button/widgets/dual-button.php:1049
+#: modules/dual-button/widgets/dual-button.php:1088
+#: modules/dual-button/widgets/dual-button.php:1211
+#: modules/dual-button/widgets/dual-button.php:1250
+#: modules/glory-slider/widgets/glory-slider.php:735
+#: modules/glory-slider/widgets/glory-slider.php:813
+#: modules/glory-slider/widgets/glory-slider.php:934
+#: modules/glory-slider/widgets/glory-slider.php:983
+#: modules/image-compare/widgets/image-compare.php:587
+#: modules/image-compare/widgets/image-compare.php:748
+#: modules/image-compare/widgets/image-compare.php:807
+#: modules/image-compare/widgets/image-compare.php:869
+#: modules/info-box/widgets/info-box.php:764
+#: modules/info-box/widgets/info-box.php:844
+#: modules/info-box/widgets/info-box.php:1174
+#: modules/info-box/widgets/info-box.php:1244
+#: modules/list-group/widgets/list-group.php:207
+#: modules/list-group/widgets/list-group.php:410
+#: modules/list-group/widgets/list-group.php:439
+#: modules/list-group/widgets/list-group.php:595
+#: modules/list-group/widgets/list-group.php:629
+#: modules/list-group/widgets/list-group.php:866
+#: modules/list-group/widgets/list-group.php:907
+#: modules/logo-carousel/widgets/logo-carousel.php:430
+#: modules/logo-carousel/widgets/logo-carousel.php:484
+#: modules/logo-carousel/widgets/logo-carousel.php:632
+#: modules/logo-grid/widgets/logo-grid.php:524
+#: modules/logo-grid/widgets/logo-grid.php:578
+#: modules/logo-grid/widgets/logo-grid.php:712
+#: modules/momentum-slider/widgets/momentum-slider.php:324
+#: modules/momentum-slider/widgets/momentum-slider.php:364
+#: modules/momentum-slider/widgets/momentum-slider.php:467
+#: modules/momentum-slider/widgets/momentum-slider.php:537
+#: modules/number/widgets/number.php:181
+#: modules/pdf-viewer/widgets/pdf-viewer.php:552
+#: modules/pdf-viewer/widgets/pdf-viewer.php:600
+#: modules/review/widgets/review.php:1013
+#: modules/social-icons/widgets/social-icons.php:531
+#: modules/social-icons/widgets/social-icons.php:589
+#: modules/step-flow/widgets/step-flow.php:509
+#: modules/step-flow/widgets/step-flow.php:619
+#: modules/step-flow/widgets/step-flow.php:870
+#: modules/team-member/widgets/team-member.php:752
+#: modules/team-member/widgets/team-member.php:771
+#: modules/team-member/widgets/team-member.php:1597
+#: modules/team-member/widgets/team-member.php:1630
+#: modules/team-member/widgets/team-member.php:1743
+#: modules/team-member/widgets/team-member.php:1813
+#: modules/testimonial/widgets/testimonial.php:240
+#: modules/tidy-list/widgets/tidy-list.php:456
+#: modules/tidy-list/widgets/tidy-list.php:484
+#: modules/tidy-list/widgets/tidy-list.php:638
+#: modules/tidy-list/widgets/tidy-list.php:671
+#: traits/global-swiper-controls.php:344 traits/global-swiper-controls.php:393
+msgid "Background"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:386
+#: modules/advanced-accordion/widgets/advanced-accordion.php:418
+#: modules/advanced-accordion/widgets/advanced-accordion.php:450
+#: modules/advanced-accordion/widgets/advanced-accordion.php:554
+#: modules/advanced-accordion/widgets/advanced-accordion.php:607
+#: modules/advanced-accordion/widgets/advanced-accordion.php:660
+#: modules/advanced-accordion/widgets/advanced-accordion.php:784
+#: modules/advanced-accordion/widgets/advanced-accordion.php:837
+#: modules/advanced-accordion/widgets/advanced-accordion.php:890
+#: modules/advanced-accordion/widgets/advanced-accordion.php:994
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1047
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1100
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1215
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:476
+#: modules/advanced-slider/widgets/advanced-slider.php:1276
+#: modules/advanced-slider/widgets/advanced-slider.php:1352
+#: modules/advanced-slider/widgets/advanced-slider.php:1496
+#: modules/advanced-slider/widgets/advanced-slider.php:1559
+#: modules/card/widgets/card.php:631 modules/card/widgets/card.php:924
+#: modules/card/widgets/card.php:1339 modules/card/widgets/card.php:1413
+#: modules/content-switcher/widgets/content-switcher.php:390
+#: modules/content-switcher/widgets/content-switcher.php:487
+#: modules/content-switcher/widgets/content-switcher.php:781
+#: modules/dual-button/widgets/dual-button.php:478
+#: modules/dual-button/widgets/dual-button.php:581
+#: modules/dual-button/widgets/dual-button.php:665
+#: modules/dual-button/widgets/dual-button.php:773
+#: modules/dual-button/widgets/dual-button.php:858
+#: modules/dual-button/widgets/dual-button.php:955
+#: modules/dual-button/widgets/dual-button.php:1059
+#: modules/dual-button/widgets/dual-button.php:1112
+#: modules/dual-button/widgets/dual-button.php:1221
+#: modules/dual-button/widgets/dual-button.php:1274
+#: modules/glory-slider/widgets/glory-slider.php:953
+#: modules/glory-slider/widgets/glory-slider.php:1016
+#: modules/image-compare/widgets/image-compare.php:779
+#: modules/info-box/widgets/info-box.php:730
+#: modules/info-box/widgets/info-box.php:1214
+#: modules/info-box/widgets/info-box.php:1289
+#: modules/list-group/widgets/list-group.php:420
+#: modules/list-group/widgets/list-group.php:463
+#: modules/logo-carousel/widgets/logo-carousel.php:440
+#: modules/logo-carousel/widgets/logo-carousel.php:494
+#: modules/logo-carousel/widgets/logo-carousel.php:675
+#: modules/logo-grid/widgets/logo-grid.php:534
+#: modules/logo-grid/widgets/logo-grid.php:588
+#: modules/logo-grid/widgets/logo-grid.php:755
+#: modules/momentum-slider/widgets/momentum-slider.php:507
+#: modules/momentum-slider/widgets/momentum-slider.php:583
+#: modules/number/widgets/number.php:242
+#: modules/pdf-viewer/widgets/pdf-viewer.php:412
+#: modules/pdf-viewer/widgets/pdf-viewer.php:571
+#: modules/pdf-viewer/widgets/pdf-viewer.php:645
+#: modules/portion-effect/widgets/portion-effect.php:191
+#: modules/review/widgets/review.php:506
+#: modules/social-icons/widgets/social-icons.php:541
+#: modules/social-icons/widgets/social-icons.php:639
+#: modules/step-flow/widgets/step-flow.php:538
+#: modules/step-flow/widgets/step-flow.php:647
+#: modules/step-flow/widgets/step-flow.php:901
+#: modules/team-member/widgets/team-member.php:1042
+#: modules/team-member/widgets/team-member.php:1783
+#: modules/team-member/widgets/team-member.php:1858
+#: modules/testimonial/widgets/testimonial.php:271
+#: modules/testimonial/widgets/testimonial.php:394
+#: modules/tidy-list/widgets/tidy-list.php:466
+#: modules/tidy-list/widgets/tidy-list.php:508
+#: traits/global-swiper-controls.php:363 traits/global-swiper-controls.php:426
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:396
+#: modules/advanced-accordion/widgets/advanced-accordion.php:564
+#: modules/advanced-accordion/widgets/advanced-accordion.php:794
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1004
+#: modules/advanced-slider/widgets/advanced-slider.php:951
+#: modules/advanced-slider/widgets/advanced-slider.php:1286
+#: modules/advanced-slider/widgets/advanced-slider.php:1506
+#: modules/card/widgets/card.php:677 modules/card/widgets/card.php:1011
+#: modules/card/widgets/card.php:1121 modules/card/widgets/card.php:1220
+#: modules/card/widgets/card.php:1349
+#: modules/dual-button/widgets/dual-button.php:591
+#: modules/dual-button/widgets/dual-button.php:783
+#: modules/dual-button/widgets/dual-button.php:1069
+#: modules/dual-button/widgets/dual-button.php:1231
+#: modules/glory-slider/widgets/glory-slider.php:963
+#: modules/info-box/widgets/info-box.php:807
+#: modules/info-box/widgets/info-box.php:996
+#: modules/info-box/widgets/info-box.php:1094
+#: modules/info-box/widgets/info-box.php:1224
+#: modules/list-group/widgets/list-group.php:431
+#: modules/list-group/widgets/list-group.php:608
+#: modules/list-group/widgets/list-group.php:877
+#: modules/logo-carousel/widgets/logo-carousel.php:476
+#: modules/logo-grid/widgets/logo-grid.php:570
+#: modules/momentum-slider/widgets/momentum-slider.php:517
+#: modules/pdf-viewer/widgets/pdf-viewer.php:581
+#: modules/review/widgets/review.php:552 modules/review/widgets/review.php:691
+#: modules/review/widgets/review.php:801 modules/review/widgets/review.php:899
+#: modules/social-icons/widgets/social-icons.php:247
+#: modules/social-icons/widgets/social-icons.php:569
+#: modules/step-flow/widgets/step-flow.php:597
+#: modules/step-flow/widgets/step-flow.php:994
+#: modules/step-flow/widgets/step-flow.php:1069
+#: modules/team-member/widgets/team-member.php:442
+#: modules/team-member/widgets/team-member.php:763
+#: modules/team-member/widgets/team-member.php:1088
+#: modules/team-member/widgets/team-member.php:1229
+#: modules/team-member/widgets/team-member.php:1337
+#: modules/team-member/widgets/team-member.php:1434
+#: modules/team-member/widgets/team-member.php:1608
+#: modules/team-member/widgets/team-member.php:1793
+#: modules/tidy-list/widgets/tidy-list.php:476
+#: modules/tidy-list/widgets/tidy-list.php:651
+#: traits/global-swiper-controls.php:373
+msgid "Hover"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:403
+#: modules/advanced-accordion/widgets/advanced-accordion.php:435
+#: modules/advanced-accordion/widgets/advanced-accordion.php:582
+#: modules/advanced-accordion/widgets/advanced-accordion.php:635
+#: modules/advanced-accordion/widgets/advanced-accordion.php:812
+#: modules/advanced-accordion/widgets/advanced-accordion.php:865
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1022
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1075
+#: modules/advanced-slider/widgets/advanced-slider.php:1315
+#: modules/advanced-slider/widgets/advanced-slider.php:1535
+#: modules/card/widgets/card.php:1377
+#: modules/content-switcher/widgets/content-switcher.php:445
+#: modules/dual-button/widgets/dual-button.php:629
+#: modules/dual-button/widgets/dual-button.php:821
+#: modules/dual-button/widgets/dual-button.php:1097
+#: modules/dual-button/widgets/dual-button.php:1259
+#: modules/glory-slider/widgets/glory-slider.php:992
+#: modules/info-box/widgets/info-box.php:829
+#: modules/info-box/widgets/info-box.php:1253
+#: modules/list-group/widgets/list-group.php:448
+#: modules/list-group/widgets/list-group.php:895
+#: modules/logo-grid/widgets/logo-grid.php:484
+#: modules/momentum-slider/widgets/momentum-slider.php:546
+#: modules/pdf-viewer/widgets/pdf-viewer.php:609
+#: modules/social-icons/widgets/social-icons.php:234
+#: modules/social-icons/widgets/social-icons.php:277
+#: modules/social-icons/widgets/social-icons.php:598
+#: modules/team-member/widgets/team-member.php:429
+#: modules/team-member/widgets/team-member.php:472
+#: modules/team-member/widgets/team-member.php:1639
+#: modules/team-member/widgets/team-member.php:1822
+#: modules/tidy-list/widgets/tidy-list.php:493
+#: traits/global-swiper-controls.php:402
+msgid "Border Color"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:428
+#: modules/advanced-accordion/widgets/advanced-accordion.php:617
+#: modules/advanced-accordion/widgets/advanced-accordion.php:847
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1057
+#: modules/content-switcher/widgets/content-switcher.php:186
+#: modules/content-switcher/widgets/content-switcher.php:403
+#: modules/content-switcher/widgets/content-switcher.php:634
+msgid "Active"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:473
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1173
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:626
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:676
+#: modules/advanced-slider/widgets/advanced-slider.php:1034
+#: modules/advanced-slider/widgets/advanced-slider.php:1130
+#: modules/advanced-slider/widgets/advanced-slider.php:1206
+#: modules/advanced-slider/widgets/advanced-slider.php:1687
+#: modules/card/widgets/card.php:873 modules/card/widgets/card.php:971
+#: modules/card/widgets/card.php:1081 modules/card/widgets/card.php:1190
+#: modules/card/widgets/card.php:1269
+#: modules/content-switcher/widgets/content-switcher.php:267
+#: modules/content-switcher/widgets/content-switcher.php:706
+#: modules/dual-button/widgets/dual-button.php:469
+#: modules/dual-button/widgets/dual-button.php:511
+#: modules/dual-button/widgets/dual-button.php:703
+#: modules/dual-button/widgets/dual-button.php:925
+#: modules/glory-slider/widgets/glory-slider.php:745
+#: modules/glory-slider/widgets/glory-slider.php:823
+#: modules/image-compare/widgets/image-compare.php:567
+#: modules/image-compare/widgets/image-compare.php:831
+#: modules/image-compare/widgets/image-compare.php:893
+#: modules/info-box/widgets/info-box.php:956
+#: modules/info-box/widgets/info-box.php:1064
+#: modules/info-box/widgets/info-box.php:1145
+#: modules/list-group/widgets/list-group.php:699
+#: modules/list-group/widgets/list-group.php:731
+#: modules/logo-carousel/widgets/logo-carousel.php:704
+#: modules/logo-carousel/widgets/logo-carousel.php:733
+#: modules/logo-grid/widgets/logo-grid.php:784
+#: modules/logo-grid/widgets/logo-grid.php:813
+#: modules/momentum-slider/widgets/momentum-slider.php:334
+#: modules/momentum-slider/widgets/momentum-slider.php:374
+#: modules/momentum-slider/widgets/momentum-slider.php:420
+#: modules/number/widgets/number.php:302
+#: modules/pdf-viewer/widgets/pdf-viewer.php:467
+#: modules/pdf-viewer/widgets/pdf-viewer.php:501
+#: modules/reading-progress/widgets/reading-progress.php:383
+#: modules/review/widgets/review.php:652 modules/review/widgets/review.php:760
+#: modules/review/widgets/review.php:869
+#: modules/social-icons/widgets/social-icons.php:723
+#: modules/social-icons/widgets/social-icons.php:778
+#: modules/step-flow/widgets/step-flow.php:910
+#: modules/step-flow/widgets/step-flow.php:955
+#: modules/step-flow/widgets/step-flow.php:1039
+#: modules/team-member/widgets/team-member.php:1189
+#: modules/team-member/widgets/team-member.php:1297
+#: modules/team-member/widgets/team-member.php:1404
+#: modules/team-member/widgets/team-member.php:1714
+#: modules/testimonial/widgets/testimonial.php:220
+#: modules/testimonial/widgets/testimonial.php:452
+#: modules/testimonial/widgets/testimonial.php:481
+#: modules/tidy-list/widgets/tidy-list.php:740
+#: modules/tidy-list/widgets/tidy-list.php:772
+#: traits/global-swiper-controls.php:596
+msgid "Typography"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:482
+#: modules/advanced-slider/widgets/advanced-slider.php:1064
+#: modules/advanced-slider/widgets/advanced-slider.php:1160
+#: modules/advanced-slider/widgets/advanced-slider.php:1267
+#: modules/advanced-slider/widgets/advanced-slider.php:1343
+#: modules/advanced-slider/widgets/advanced-slider.php:1487
+#: modules/advanced-slider/widgets/advanced-slider.php:1550
+#: modules/card/widgets/card.php:1000 modules/card/widgets/card.php:1030
+#: modules/card/widgets/card.php:1110 modules/card/widgets/card.php:1140
+#: modules/card/widgets/card.php:1330 modules/card/widgets/card.php:1404
+#: modules/content-switcher/widgets/content-switcher.php:381
+#: modules/content-switcher/widgets/content-switcher.php:478
+#: modules/dual-button/widgets/dual-button.php:572
+#: modules/dual-button/widgets/dual-button.php:656
+#: modules/dual-button/widgets/dual-button.php:764
+#: modules/dual-button/widgets/dual-button.php:849
+#: modules/glory-slider/widgets/glory-slider.php:766
+#: modules/glory-slider/widgets/glory-slider.php:844
+#: modules/glory-slider/widgets/glory-slider.php:944
+#: modules/glory-slider/widgets/glory-slider.php:1007
+#: modules/image-compare/widgets/image-compare.php:840
+#: modules/image-compare/widgets/image-compare.php:902
+#: modules/info-box/widgets/info-box.php:985
+#: modules/info-box/widgets/info-box.php:1015
+#: modules/info-box/widgets/info-box.php:1205
+#: modules/info-box/widgets/info-box.php:1280
+#: modules/list-group/widgets/list-group.php:708
+#: modules/momentum-slider/widgets/momentum-slider.php:498
+#: modules/momentum-slider/widgets/momentum-slider.php:574
+#: modules/number/widgets/number.php:311
+#: modules/pdf-viewer/widgets/pdf-viewer.php:446
+#: modules/pdf-viewer/widgets/pdf-viewer.php:562
+#: modules/pdf-viewer/widgets/pdf-viewer.php:636
+#: modules/review/widgets/review.php:681 modules/review/widgets/review.php:710
+#: modules/review/widgets/review.php:790 modules/review/widgets/review.php:820
+#: modules/social-icons/widgets/social-icons.php:630
+#: modules/step-flow/widgets/step-flow.php:984
+#: modules/step-flow/widgets/step-flow.php:1013
+#: modules/team-member/widgets/team-member.php:1218
+#: modules/team-member/widgets/team-member.php:1248
+#: modules/team-member/widgets/team-member.php:1326
+#: modules/team-member/widgets/team-member.php:1356
+#: modules/team-member/widgets/team-member.php:1774
+#: modules/team-member/widgets/team-member.php:1849
+#: modules/tidy-list/widgets/tidy-list.php:749
+#: traits/global-swiper-controls.php:354 traits/global-swiper-controls.php:417
+msgid "Text Shadow"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:490
+#: modules/advanced-accordion/widgets/advanced-accordion.php:720
+#: modules/advanced-accordion/widgets/advanced-accordion.php:930
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1181
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:506
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:537
+#: modules/advanced-slider/widgets/advanced-slider.php:855
+#: modules/advanced-slider/widgets/advanced-slider.php:901
+#: modules/advanced-slider/widgets/advanced-slider.php:1072
+#: modules/advanced-slider/widgets/advanced-slider.php:1168
+#: modules/advanced-slider/widgets/advanced-slider.php:1193
+#: modules/advanced-slider/widgets/advanced-slider.php:1421
+#: modules/card/widgets/card.php:597 modules/card/widgets/card.php:860
+#: modules/card/widgets/card.php:1256
+#: modules/content-switcher/widgets/content-switcher.php:294
+#: modules/content-switcher/widgets/content-switcher.php:523
+#: modules/content-switcher/widgets/content-switcher.php:714
+#: modules/dual-button/widgets/dual-button.php:456
+#: modules/dual-button/widgets/dual-button.php:498
+#: modules/dual-button/widgets/dual-button.php:690
+#: modules/dual-button/widgets/dual-button.php:995
+#: modules/dual-button/widgets/dual-button.php:1157
+#: modules/glory-slider/widgets/glory-slider.php:753
+#: modules/glory-slider/widgets/glory-slider.php:831
+#: modules/glory-slider/widgets/glory-slider.php:880
+#: modules/glory-slider/widgets/glory-slider.php:1040
+#: modules/image-compare/widgets/image-compare.php:616
+#: modules/image-compare/widgets/image-compare.php:723
+#: modules/image-compare/widgets/image-compare.php:818
+#: modules/image-compare/widgets/image-compare.php:880
+#: modules/info-box/widgets/info-box.php:656
+#: modules/info-box/widgets/info-box.php:1132
+#: modules/list-group/widgets/list-group.php:367
+#: modules/list-group/widgets/list-group.php:523
+#: modules/list-group/widgets/list-group.php:812
+#: modules/logo-carousel/widgets/logo-carousel.php:384
+#: modules/logo-carousel/widgets/logo-carousel.php:641
+#: modules/logo-grid/widgets/logo-grid.php:429
+#: modules/logo-grid/widgets/logo-grid.php:721
+#: modules/momentum-slider/widgets/momentum-slider.php:382
+#: modules/momentum-slider/widgets/momentum-slider.php:407
+#: modules/pdf-viewer/widgets/pdf-viewer.php:366
+#: modules/pdf-viewer/widgets/pdf-viewer.php:488
+#: modules/review/widgets/review.php:472
+#: modules/review/widgets/review.php:1022
+#: modules/social-icons/widgets/social-icons.php:446
+#: modules/step-flow/widgets/step-flow.php:412
+#: modules/step-flow/widgets/step-flow.php:846
+#: modules/team-member/widgets/team-member.php:809
+#: modules/team-member/widgets/team-member.php:1008
+#: modules/team-member/widgets/team-member.php:1511
+#: modules/team-member/widgets/team-member.php:1701
+#: modules/testimonial/widgets/testimonial.php:187
+#: modules/tidy-list/widgets/tidy-list.php:413
+#: modules/tidy-list/widgets/tidy-list.php:567
+#: traits/global-swiper-controls.php:288
+msgid "Padding"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:525
+#: modules/advanced-accordion/widgets/advanced-accordion.php:755
+#: modules/advanced-accordion/widgets/advanced-accordion.php:965
+#: modules/advanced-slider/widgets/advanced-slider.php:915
+#: modules/advanced-slider/widgets/advanced-slider.php:1238
+#: modules/advanced-slider/widgets/advanced-slider.php:1457
+#: modules/card/widgets/card.php:642 modules/card/widgets/card.php:981
+#: modules/card/widgets/card.php:1091 modules/card/widgets/card.php:1200
+#: modules/card/widgets/card.php:1301
+#: modules/content-switcher/widgets/content-switcher.php:338
+#: modules/content-switcher/widgets/content-switcher.php:603
+#: modules/dual-button/widgets/dual-button.php:521
+#: modules/dual-button/widgets/dual-button.php:713
+#: modules/dual-button/widgets/dual-button.php:1030
+#: modules/dual-button/widgets/dual-button.php:1192
+#: modules/glory-slider/widgets/glory-slider.php:915
+#: modules/info-box/widgets/info-box.php:741
+#: modules/info-box/widgets/info-box.php:966
+#: modules/info-box/widgets/info-box.php:1074
+#: modules/info-box/widgets/info-box.php:1155
+#: modules/list-group/widgets/list-group.php:402
+#: modules/list-group/widgets/list-group.php:574
+#: modules/list-group/widgets/list-group.php:847
+#: modules/logo-carousel/widgets/logo-carousel.php:422
+#: modules/logo-grid/widgets/logo-grid.php:516
+#: modules/momentum-slider/widgets/momentum-slider.php:430
+#: modules/pdf-viewer/widgets/pdf-viewer.php:533
+#: modules/review/widgets/review.php:517 modules/review/widgets/review.php:662
+#: modules/review/widgets/review.php:770 modules/review/widgets/review.php:879
+#: modules/social-icons/widgets/social-icons.php:204
+#: modules/social-icons/widgets/social-icons.php:511
+#: modules/step-flow/widgets/step-flow.php:487
+#: modules/step-flow/widgets/step-flow.php:965
+#: modules/step-flow/widgets/step-flow.php:1049
+#: modules/team-member/widgets/team-member.php:399
+#: modules/team-member/widgets/team-member.php:744
+#: modules/team-member/widgets/team-member.php:1053
+#: modules/team-member/widgets/team-member.php:1199
+#: modules/team-member/widgets/team-member.php:1307
+#: modules/team-member/widgets/team-member.php:1414
+#: modules/team-member/widgets/team-member.php:1576
+#: modules/team-member/widgets/team-member.php:1724
+#: modules/tidy-list/widgets/tidy-list.php:448
+#: modules/tidy-list/widgets/tidy-list.php:617
+#: traits/global-swiper-controls.php:324
+msgid "Normal"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:532
+#: modules/advanced-accordion/widgets/advanced-accordion.php:571
+#: modules/advanced-accordion/widgets/advanced-accordion.php:624
+#: modules/advanced-accordion/widgets/advanced-accordion.php:762
+#: modules/advanced-accordion/widgets/advanced-accordion.php:801
+#: modules/advanced-accordion/widgets/advanced-accordion.php:854
+#: modules/advanced-accordion/widgets/advanced-accordion.php:972
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1011
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1064
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1151
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:614
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:664
+#: modules/advanced-slider/widgets/advanced-slider.php:1464
+#: modules/advanced-slider/widgets/advanced-slider.php:1513
+#: modules/card/widgets/card.php:1438
+#: modules/content-switcher/widgets/content-switcher.php:611
+#: modules/content-switcher/widgets/content-switcher.php:641
+#: modules/dual-button/widgets/dual-button.php:1037
+#: modules/dual-button/widgets/dual-button.php:1076
+#: modules/dual-button/widgets/dual-button.php:1199
+#: modules/dual-button/widgets/dual-button.php:1238
+#: modules/list-group/widgets/list-group.php:581
+#: modules/list-group/widgets/list-group.php:616
+#: modules/list-group/widgets/list-group.php:676
+#: modules/list-group/widgets/list-group.php:739
+#: modules/list-group/widgets/list-group.php:854
+#: modules/list-group/widgets/list-group.php:884
+#: modules/logo-carousel/widgets/logo-carousel.php:692
+#: modules/logo-carousel/widgets/logo-carousel.php:721
+#: modules/logo-grid/widgets/logo-grid.php:772
+#: modules/logo-grid/widgets/logo-grid.php:801
+#: modules/momentum-slider/widgets/momentum-slider.php:312
+#: modules/momentum-slider/widgets/momentum-slider.php:746
+#: modules/reading-progress/widgets/reading-progress.php:283
+#: modules/review/widgets/review.php:989
+#: modules/social-icons/widgets/social-icons.php:765
+#: modules/step-flow/widgets/step-flow.php:1105
+#: modules/tidy-list/widgets/tidy-list.php:625
+#: modules/tidy-list/widgets/tidy-list.php:658
+#: modules/tidy-list/widgets/tidy-list.php:717
+#: modules/tidy-list/widgets/tidy-list.php:780
+#: traits/global-swiper-controls.php:331 traits/global-swiper-controls.php:380
+msgid "Color"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:683
+#: modules/advanced-slider/widgets/advanced-slider.php:1385
+#: modules/content-switcher/widgets/content-switcher.php:583
+#: modules/dual-button/widgets/dual-button.php:977
+#: modules/dual-button/widgets/dual-button.php:1139
+#: modules/glory-slider/widgets/glory-slider.php:79
+#: modules/list-group/widgets/list-group.php:487
+#: modules/list-group/widgets/list-group.php:776
+#: modules/number/widgets/number.php:141
+#: modules/reading-progress/widgets/reading-progress.php:69
+#: modules/review/widgets/review.php:954
+#: modules/testimonial/widgets/testimonial.php:290
+#: modules/tidy-list/widgets/tidy-list.php:531
+#: traits/global-swiper-controls.php:221
+msgid "Size"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1114
+#: modules/content-switcher/widgets/content-switcher.php:668
+#: modules/glory-slider/widgets/glory-slider.php:244
+#: modules/image-compare/widgets/image-compare.php:233
+#: modules/image-compare/widgets/image-compare.php:264
+#: modules/image-compare/widgets/image-compare.php:630
+msgid "Content"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1122
+#: modules/advanced-slider/widgets/advanced-slider.php:826
+#: modules/card/widgets/card.php:300
+#: modules/content-switcher/widgets/content-switcher.php:676
+#: modules/dual-button/widgets/dual-button.php:60
+#: modules/dual-button/widgets/dual-button.php:238
+#: modules/dual-button/widgets/dual-button.php:364
+#: modules/image-compare/widgets/image-compare.php:680
+#: modules/info-box/widgets/info-box.php:297
+#: modules/info-box/widgets/info-box.php:396
+#: modules/logo-carousel/widgets/logo-carousel.php:601
+#: modules/logo-grid/widgets/logo-grid.php:681
+#: modules/number/widgets/number.php:110
+#: modules/social-icons/widgets/social-icons.php:322
+#: modules/step-flow/widgets/step-flow.php:205
+#: modules/team-member/widgets/team-member.php:590
+#: modules/team-member/widgets/team-member.php:687
+#: modules/testimonial/widgets/testimonial.php:73
+#: modules/tidy-list/widgets/tidy-list.php:339
+#: traits/global-swiper-controls.php:153
+msgid "Alignment"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1126
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:396
+#: modules/advanced-slider/widgets/advanced-slider.php:699
+#: modules/advanced-slider/widgets/advanced-slider.php:830
+#: modules/card/widgets/card.php:89 modules/card/widgets/card.php:304
+#: modules/card/widgets/card.php:401
+#: modules/content-switcher/widgets/content-switcher.php:230
+#: modules/content-switcher/widgets/content-switcher.php:680
+#: modules/dual-button/widgets/dual-button.php:64
+#: modules/dual-button/widgets/dual-button.php:242
+#: modules/dual-button/widgets/dual-button.php:368
+#: modules/glory-slider/widgets/glory-slider.php:571
+#: modules/image-compare/widgets/image-compare.php:197
+#: modules/image-compare/widgets/image-compare.php:685
+#: modules/info-box/widgets/info-box.php:140
+#: modules/info-box/widgets/info-box.php:301
+#: modules/info-box/widgets/info-box.php:400
+#: modules/list-group/widgets/list-group.php:279
+#: modules/logo-carousel/widgets/logo-carousel.php:167
+#: modules/logo-carousel/widgets/logo-carousel.php:606
+#: modules/logo-grid/widgets/logo-grid.php:162
+#: modules/logo-grid/widgets/logo-grid.php:686
+#: modules/number/widgets/number.php:114
+#: modules/portion-effect/widgets/portion-effect.php:123
+#: modules/reading-progress/widgets/reading-progress.php:115
+#: modules/review/widgets/review.php:94
+#: modules/social-icons/widgets/social-icons.php:326
+#: modules/step-flow/widgets/step-flow.php:209
+#: modules/team-member/widgets/team-member.php:115
+#: modules/team-member/widgets/team-member.php:594
+#: modules/team-member/widgets/team-member.php:691
+#: modules/testimonial/widgets/testimonial.php:77
+#: modules/tidy-list/widgets/tidy-list.php:247
+#: modules/tidy-list/widgets/tidy-list.php:288
+#: modules/tidy-list/widgets/tidy-list.php:344
+#: traits/global-swiper-controls.php:132 traits/global-swiper-controls.php:157
+msgid "Left"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1130
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:400
+#: modules/advanced-slider/widgets/advanced-slider.php:834
+#: modules/card/widgets/card.php:308 modules/card/widgets/card.php:405
+#: modules/content-switcher/widgets/content-switcher.php:234
+#: modules/content-switcher/widgets/content-switcher.php:684
+#: modules/dual-button/widgets/dual-button.php:68
+#: modules/dual-button/widgets/dual-button.php:246
+#: modules/dual-button/widgets/dual-button.php:372
+#: modules/glory-slider/widgets/glory-slider.php:575
+#: modules/image-compare/widgets/image-compare.php:201
+#: modules/image-compare/widgets/image-compare.php:689
+#: modules/info-box/widgets/info-box.php:170
+#: modules/info-box/widgets/info-box.php:305
+#: modules/info-box/widgets/info-box.php:404
+#: modules/list-group/widgets/list-group.php:283
+#: modules/logo-carousel/widgets/logo-carousel.php:610
+#: modules/logo-grid/widgets/logo-grid.php:690
+#: modules/number/widgets/number.php:118
+#: modules/social-icons/widgets/social-icons.php:330
+#: modules/step-flow/widgets/step-flow.php:213
+#: modules/team-member/widgets/team-member.php:598
+#: modules/team-member/widgets/team-member.php:695
+#: modules/testimonial/widgets/testimonial.php:81
+#: modules/tidy-list/widgets/tidy-list.php:292
+#: modules/tidy-list/widgets/tidy-list.php:348
+#: traits/global-swiper-controls.php:161
+msgid "Center"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1134
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:404
+#: modules/advanced-slider/widgets/advanced-slider.php:700
+#: modules/advanced-slider/widgets/advanced-slider.php:838
+#: modules/card/widgets/card.php:97 modules/card/widgets/card.php:312
+#: modules/card/widgets/card.php:409
+#: modules/content-switcher/widgets/content-switcher.php:238
+#: modules/content-switcher/widgets/content-switcher.php:688
+#: modules/dual-button/widgets/dual-button.php:72
+#: modules/dual-button/widgets/dual-button.php:250
+#: modules/dual-button/widgets/dual-button.php:376
+#: modules/glory-slider/widgets/glory-slider.php:579
+#: modules/image-compare/widgets/image-compare.php:205
+#: modules/image-compare/widgets/image-compare.php:693
+#: modules/info-box/widgets/info-box.php:148
+#: modules/info-box/widgets/info-box.php:309
+#: modules/info-box/widgets/info-box.php:408
+#: modules/list-group/widgets/list-group.php:287
+#: modules/logo-carousel/widgets/logo-carousel.php:165
+#: modules/logo-carousel/widgets/logo-carousel.php:614
+#: modules/logo-grid/widgets/logo-grid.php:160
+#: modules/logo-grid/widgets/logo-grid.php:694
+#: modules/number/widgets/number.php:122
+#: modules/reading-progress/widgets/reading-progress.php:116
+#: modules/review/widgets/review.php:102
+#: modules/social-icons/widgets/social-icons.php:334
+#: modules/step-flow/widgets/step-flow.php:217
+#: modules/team-member/widgets/team-member.php:123
+#: modules/team-member/widgets/team-member.php:602
+#: modules/team-member/widgets/team-member.php:699
+#: modules/testimonial/widgets/testimonial.php:85
+#: modules/tidy-list/widgets/tidy-list.php:259
+#: modules/tidy-list/widgets/tidy-list.php:296
+#: modules/tidy-list/widgets/tidy-list.php:352
+#: traits/global-swiper-controls.php:133 traits/global-swiper-controls.php:165
+msgid "Right"
+msgstr ""
+
+#: modules/advanced-accordion/widgets/advanced-accordion.php:1138
+#: modules/advanced-slider/widgets/advanced-slider.php:842
+#: modules/card/widgets/card.php:316 modules/card/widgets/card.php:413
+#: modules/content-switcher/widgets/content-switcher.php:692
+#: modules/glory-slider/widgets/glory-slider.php:583
+#: modules/info-box/widgets/info-box.php:313
+#: modules/info-box/widgets/info-box.php:412
+#: modules/logo-carousel/widgets/logo-carousel.php:618
+#: modules/logo-grid/widgets/logo-grid.php:698
+#: modules/step-flow/widgets/step-flow.php:221
+#: modules/team-member/widgets/team-member.php:606
+#: modules/team-member/widgets/team-member.php:703
+msgid "Justified"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:51
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:383
+msgid "Skill Bars"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:61
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:559
+msgid "Skill Name"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:63
+msgid "Design"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:71
+msgid "Skill Max Value"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:90
+msgid "Skill Value (Out of 100)"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:109
+#: modules/team-member/widgets/team-member.php:382
+msgid "Customize ?"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:118
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:495
+#: modules/reading-progress/widgets/reading-progress.php:296
+msgid "Base Color"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:132
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:518
+msgid "Fill Progress"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:157
+msgid "Skill Color"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:171
+msgid "Percentage / Value Color"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:190
+msgid "HTML"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:194
+msgid "CSS"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:198
+msgid "JS"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:202
+msgid "PHP"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:206
+msgid "WordPress"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:217
+msgid "Select Layout"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:221
+#: modules/floating-effects/module.php:618
+#: modules/info-box/widgets/info-box.php:546
+#: modules/reading-progress/widgets/reading-progress.php:188
+#: modules/review/widgets/review.php:363
+#: modules/social-icons/widgets/social-icons.php:367
+#: modules/step-flow/widgets/step-flow.php:304
+#: modules/step-flow/widgets/step-flow.php:741
+#: modules/step-flow/widgets/step-flow.php:1179
+#: modules/team-member/widgets/team-member.php:76
+#: modules/team-member/widgets/team-member.php:897
+msgid "Default"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:222
+msgid "Vision"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:231
+msgid "Name Position"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:235
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:252
+#: modules/advanced-slider/widgets/advanced-slider.php:676
+#: modules/card/widgets/card.php:93
+#: modules/image-compare/widgets/image-compare.php:155
+#: modules/image-compare/widgets/image-compare.php:281
+#: modules/info-box/widgets/info-box.php:144
+#: modules/info-box/widgets/info-box.php:166
+#: modules/logo-carousel/widgets/logo-carousel.php:164
+#: modules/logo-grid/widgets/logo-grid.php:159
+#: modules/portion-effect/widgets/portion-effect.php:105
+#: modules/reading-progress/widgets/reading-progress.php:92
+#: modules/review/widgets/review.php:98
+#: modules/team-member/widgets/team-member.php:119
+#: modules/tidy-list/widgets/tidy-list.php:251
+msgid "Top"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:236
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:253
+msgid "Inner"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:237
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:254
+#: modules/advanced-slider/widgets/advanced-slider.php:675
+#: modules/image-compare/widgets/image-compare.php:163
+#: modules/image-compare/widgets/image-compare.php:289
+#: modules/info-box/widgets/info-box.php:174
+#: modules/logo-carousel/widgets/logo-carousel.php:166
+#: modules/logo-grid/widgets/logo-grid.php:161
+#: modules/reading-progress/widgets/reading-progress.php:93
+#: modules/tidy-list/widgets/tidy-list.php:255
+#: traits/global-swiper-controls.php:107
+msgid "Bottom"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:248
+msgid "Skill Value Position"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:255
+msgid "With Top"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:266
+msgid "Display Direction"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:270
+#: modules/tidy-list/widgets/tidy-list.php:70
+msgid "Inline"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:271
+#: modules/tidy-list/widgets/tidy-list.php:66
+msgid "Block"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:272
+msgid "Block Reverse"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:273
+msgid "Inline reverse"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:291
+#: modules/content-switcher/widgets/content-switcher.php:218
+#: modules/logo-grid/widgets/logo-grid.php:213
+msgid "Additional"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:310
+msgid "Skill Bars Striped"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:322
+msgid "Skill Bars Animated"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:335
+msgid "Rainbow Animation"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:345
+msgid "Animation Speed (sec)"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:365
+msgid "Rainbow Colors"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:391
+#: modules/list-group/widgets/list-group.php:274
+#: modules/tidy-list/widgets/tidy-list.php:283
+msgid "Content Alignment"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:427
+#: modules/card/widgets/card.php:470
+#: modules/image-compare/widgets/image-compare.php:489
+#: modules/info-box/widgets/info-box.php:522
+#: modules/list-group/widgets/list-group.php:349
+#: modules/logo-grid/widgets/logo-grid.php:410
+#: modules/momentum-slider/widgets/momentum-slider.php:630
+#: modules/momentum-slider/widgets/momentum-slider.php:707
+#: modules/pdf-viewer/widgets/pdf-viewer.php:171
+#: modules/portion-effect/widgets/portion-effect.php:69
+#: modules/portion-effect/widgets/portion-effect.php:167
+#: modules/review/widgets/review.php:318
+#: modules/team-member/widgets/team-member.php:877
+#: modules/tidy-list/widgets/tidy-list.php:395
+#: traits/global-swiper-controls.php:619
+msgid "Height"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:445
+#: modules/dual-button/widgets/dual-button.php:109
+#: modules/list-group/widgets/list-group.php:330
+#: modules/momentum-slider/widgets/momentum-slider.php:668
+#: modules/review/widgets/review.php:971
+#: modules/tidy-list/widgets/tidy-list.php:376
+msgid "Space Between"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:487
+msgid "Skill Bars (Progress)"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:551
+msgid "Skill Bars Content"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:589
+#: modules/card/widgets/card.php:448
+#: modules/dual-button/widgets/dual-button.php:87
+#: modules/image-compare/widgets/image-compare.php:641
+#: modules/info-box/widgets/info-box.php:496
+#: modules/logo-carousel/widgets/logo-carousel.php:582
+#: modules/logo-grid/widgets/logo-grid.php:662
+#: modules/momentum-slider/widgets/momentum-slider.php:437
+#: modules/momentum-slider/widgets/momentum-slider.php:612
+#: modules/momentum-slider/widgets/momentum-slider.php:728
+#: modules/pdf-viewer/widgets/pdf-viewer.php:145
+#: modules/portion-effect/widgets/portion-effect.php:87
+#: modules/portion-effect/widgets/portion-effect.php:226
+#: modules/review/widgets/review.php:337
+#: modules/step-flow/widgets/step-flow.php:1154
+#: modules/team-member/widgets/team-member.php:854
+msgid "Width"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:634
+msgid "Percentage / Value"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:686
+msgid "Value Position With Top"
+msgstr ""
+
+#: modules/advanced-skill-bars/widgets/advanced-skill-bars.php:698
+#: modules/advanced-slider/widgets/advanced-slider.php:410
+#: modules/card/widgets/card.php:561 modules/card/widgets/card.php:826
+#: modules/floating-effects/module.php:184
+#: modules/glory-slider/widgets/glory-slider.php:457
+#: modules/info-box/widgets/info-box.php:620
+#: modules/review/widgets/review.php:437
+#: modules/step-flow/widgets/step-flow.php:378
+#: modules/step-flow/widgets/step-flow.php:815
+#: modules/step-flow/widgets/step-flow.php:1247
+#: modules/team-member/widgets/team-member.php:968
+#: traits/global-swiper-controls.php:759
+msgid "Rotate"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:57
+#: modules/advanced-slider/widgets/advanced-slider.php:722
+msgid "Sliders"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:84
+msgid "Slide Title"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:93
+#: modules/advanced-slider/widgets/advanced-slider.php:1095
+#: modules/content-switcher/widgets/content-switcher.php:117
+#: modules/dual-button/widgets/dual-button.php:168
+#: modules/image-compare/widgets/image-compare.php:850
+#: modules/list-group/widgets/list-group.php:144
+#: modules/list-group/widgets/list-group.php:719
+#: modules/logo-carousel/widgets/logo-carousel.php:714
+#: modules/logo-grid/widgets/logo-grid.php:794
+#: modules/number/widgets/number.php:282
+#: modules/team-member/widgets/team-member.php:1370
+#: modules/tidy-list/widgets/tidy-list.php:170
+#: modules/tidy-list/widgets/tidy-list.php:760
+msgid "Text"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:105
+#: modules/card/widgets/card.php:440
+#: modules/dual-button/widgets/dual-button.php:148
+#: modules/info-box/widgets/info-box.php:80
+#: modules/list-group/widgets/list-group.php:79
+#: modules/team-member/widgets/team-member.php:823
+#: modules/testimonial/widgets/testimonial.php:282
+#: modules/tidy-list/widgets/tidy-list.php:104
+msgid "Image"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:115
+#: modules/card/widgets/card.php:276
+#: modules/dual-button/widgets/dual-button.php:223
+#: modules/dual-button/widgets/dual-button.php:349
+#: modules/glory-slider/widgets/glory-slider.php:124
+#: modules/glory-slider/widgets/glory-slider.php:145
+#: modules/glory-slider/widgets/glory-slider.php:166
+#: modules/info-box/widgets/info-box.php:264
+#: modules/list-group/widgets/list-group.php:217
+#: modules/logo-carousel/widgets/logo-carousel.php:114
+#: modules/logo-grid/widgets/logo-grid.php:109
+#: modules/momentum-slider/widgets/momentum-slider.php:97
+#: modules/social-icons/widgets/social-icons.php:147
+#: modules/step-flow/widgets/step-flow.php:108
+#: modules/team-member/widgets/team-member.php:349
+#: modules/team-member/widgets/team-member.php:566
+#: modules/testimonial/widgets/testimonial.php:161
+#: modules/tidy-list/widgets/tidy-list.php:180
+#: modules/wrapper-link/module.php:50
+msgid "Link"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:117
+#: modules/card/widgets/card.php:278
+#: modules/dual-button/widgets/dual-button.php:225
+#: modules/dual-button/widgets/dual-button.php:351
+#: modules/glory-slider/widgets/glory-slider.php:285
+#: modules/info-box/widgets/info-box.php:266
+#: modules/list-group/widgets/list-group.php:219
+#: modules/logo-carousel/widgets/logo-carousel.php:116
+#: modules/logo-grid/widgets/logo-grid.php:111
+#: modules/momentum-slider/widgets/momentum-slider.php:99
+#: modules/social-icons/widgets/social-icons.php:155
+#: modules/step-flow/widgets/step-flow.php:110
+#: modules/team-member/widgets/team-member.php:351
+#: modules/team-member/widgets/team-member.php:568
+#: modules/testimonial/widgets/testimonial.php:167
+#: modules/tidy-list/widgets/tidy-list.php:182
+#: modules/wrapper-link/module.php:52
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:162
+msgid "Slide Title #1"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:166
+msgid "Slide Title #2"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:170
+msgid "Slide Title #3"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:174
+msgid "Slide Title #4"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:187
+msgid "Slider Layout"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:195
+#: modules/momentum-slider/widgets/momentum-slider.php:276
+msgid "Slider Height"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:217
+msgid "Content Position"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:221
+#: modules/card/widgets/card.php:221
+#: modules/glory-slider/widgets/glory-slider.php:539
+#: modules/step-flow/widgets/step-flow.php:151
+msgid "Top Left"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:222
+#: modules/card/widgets/card.php:222
+#: modules/glory-slider/widgets/glory-slider.php:540
+#: modules/step-flow/widgets/step-flow.php:155
+msgid "Top Center"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:223
+#: modules/card/widgets/card.php:223
+#: modules/glory-slider/widgets/glory-slider.php:541
+#: modules/step-flow/widgets/step-flow.php:152
+msgid "Top Right"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:224
+#: modules/card/widgets/card.php:224
+msgid "Middle Left"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:225
+#: modules/card/widgets/card.php:225
+msgid "Middle Center"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:226
+#: modules/card/widgets/card.php:226
+msgid "Middle Right"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:227
+#: modules/card/widgets/card.php:227
+#: modules/glory-slider/widgets/glory-slider.php:542
+#: modules/step-flow/widgets/step-flow.php:153
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:228
+#: modules/card/widgets/card.php:228
+#: modules/glory-slider/widgets/glory-slider.php:543
+#: modules/step-flow/widgets/step-flow.php:156
+msgid "Bottom Center"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:229
+#: modules/card/widgets/card.php:229
+#: modules/glory-slider/widgets/glory-slider.php:544
+#: modules/step-flow/widgets/step-flow.php:154
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:258
+msgid "Text Effects"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:262
+#: modules/advanced-slider/widgets/advanced-slider.php:651
+#: modules/logo-carousel/widgets/logo-carousel.php:214
+#: modules/logo-grid/widgets/logo-grid.php:449
+#: traits/global-swiper-controls.php:79
+msgid "None"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:263
+msgid "Right To Left"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:264
+#: modules/team-member/widgets/team-member.php:97
+msgid "Left To Right"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:265
+msgid "Top To Bottom"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:266
+msgid "Bottom To Top"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:275
+msgid "Link On"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:290
+msgid ""
+"Note: Links will work on Buttons normally but if you want extra more link "
+"options like as on Title or Full Item, \n"
+"                                        you can use this option easily."
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:299
+#: modules/glory-slider/widgets/glory-slider.php:512
+#: modules/pdf-viewer/widgets/pdf-viewer.php:190
+msgid "Show Title"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:322
+#: modules/list-group/widgets/list-group.php:266
+#: modules/tidy-list/widgets/tidy-list.php:234
+msgid "Show Text"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:331
+#: modules/momentum-slider/widgets/momentum-slider.php:157
+msgid "Show Button / Link"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:340
+#: traits/global-swiper-controls.php:33
+msgid "Show Navigation"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:350
+msgid "Show Pagination"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:369
+#: modules/list-group/widgets/list-group.php:765
+#: modules/step-flow/widgets/step-flow.php:1094
+#: traits/global-swiper-controls.php:662
+msgid "Direction"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:373
+#: traits/global-swiper-controls.php:250 traits/global-swiper-controls.php:666
+msgid "Horizontal"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:374
+#: traits/global-swiper-controls.php:268
+msgid "Vertical"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:382
+#: traits/global-swiper-controls.php:676
+msgid "Transition Effect"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:386
+#: modules/team-member/widgets/team-member.php:80
+#: traits/global-swiper-controls.php:680
+msgid "Slide"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:387
+msgid "Fade"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:388
+msgid "Flip"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:389
+msgid "Cube"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:390
+#: traits/global-swiper-controls.php:681
+msgid "Coverflow"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:398
+msgid "Cross Fade"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:431
+#: modules/glory-slider/widgets/glory-slider.php:502
+#: traits/global-swiper-controls.php:806
+msgid "Slide Shadows"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:442
+#: traits/global-swiper-controls.php:817
+msgid "Autoplay"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:451
+msgid "Autoplay Speed (sec)"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:473
+#: traits/global-swiper-controls.php:847
+msgid "Loop"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:482
+msgid "Slide Speed (sec)"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:501
+#: traits/global-swiper-controls.php:875
+msgid "Pause On Hover"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:509
+#: traits/global-swiper-controls.php:903
+msgid "Observer"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:513
+#: traits/global-swiper-controls.php:907
+msgid "Note: Please use it when you using slider on a hidden element."
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:520
+msgid "Hash Navigation"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:531
+#: modules/card/widgets/card.php:254 modules/card/widgets/card.php:1245
+#: modules/content-switcher/widgets/content-switcher.php:69
+#: modules/info-box/widgets/info-box.php:253
+#: modules/info-box/widgets/info-box.php:1121
+#: modules/pdf-viewer/widgets/pdf-viewer.php:238
+#: modules/pdf-viewer/widgets/pdf-viewer.php:477
+#: modules/team-member/widgets/team-member.php:529
+#: modules/team-member/widgets/team-member.php:1678
+msgid "Button"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:543
+#: modules/card/widgets/card.php:266
+#: modules/dual-button/widgets/dual-button.php:213
+#: modules/dual-button/widgets/dual-button.php:339
+#: modules/info-box/widgets/info-box.php:278
+#: modules/momentum-slider/widgets/momentum-slider.php:189
+#: modules/team-member/widgets/team-member.php:556
+msgid "Button Text"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:545
+#: modules/card/widgets/card.php:268 modules/info-box/widgets/info-box.php:280
+#: modules/team-member/widgets/team-member.php:558
+msgid "Click here"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:561
+#: modules/card/widgets/card.php:340
+#: modules/content-switcher/widgets/content-switcher.php:161
+#: modules/dual-button/widgets/dual-button.php:273
+#: modules/dual-button/widgets/dual-button.php:399
+#: modules/info-box/widgets/info-box.php:337
+#: modules/momentum-slider/widgets/momentum-slider.php:212
+#: modules/pdf-viewer/widgets/pdf-viewer.php:309
+#: modules/team-member/widgets/team-member.php:630
+msgid "Icon Position"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:566
+#: modules/card/widgets/card.php:345
+#: modules/content-switcher/widgets/content-switcher.php:166
+#: modules/dual-button/widgets/dual-button.php:278
+#: modules/dual-button/widgets/dual-button.php:404
+#: modules/image-compare/widgets/image-compare.php:111
+#: modules/info-box/widgets/info-box.php:342
+#: modules/momentum-slider/widgets/momentum-slider.php:217
+#: modules/pdf-viewer/widgets/pdf-viewer.php:314
+#: modules/team-member/widgets/team-member.php:635
+msgid "Before"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:570
+#: modules/card/widgets/card.php:349
+#: modules/content-switcher/widgets/content-switcher.php:170
+#: modules/dual-button/widgets/dual-button.php:287
+#: modules/dual-button/widgets/dual-button.php:408
+#: modules/image-compare/widgets/image-compare.php:124
+#: modules/info-box/widgets/info-box.php:346
+#: modules/momentum-slider/widgets/momentum-slider.php:221
+#: modules/pdf-viewer/widgets/pdf-viewer.php:318
+#: modules/team-member/widgets/team-member.php:639
+msgid "After"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:586
+#: modules/card/widgets/card.php:365
+#: modules/content-switcher/widgets/content-switcher.php:276
+#: modules/dual-button/widgets/dual-button.php:303
+#: modules/dual-button/widgets/dual-button.php:424
+#: modules/info-box/widgets/info-box.php:362
+#: modules/momentum-slider/widgets/momentum-slider.php:237
+#: modules/pdf-viewer/widgets/pdf-viewer.php:334
+#: modules/team-member/widgets/team-member.php:655
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:611
+#: modules/advanced-slider/widgets/advanced-slider.php:1374
+#: traits/global-swiper-controls.php:25 traits/global-swiper-controls.php:209
+msgid "Navigation"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:620
+#: traits/global-swiper-controls.php:43
+msgid "Prev Icon"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:628
+#: traits/global-swiper-controls.php:52
+msgid "Next Icon"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:638
+#: modules/advanced-slider/widgets/advanced-slider.php:1573
+#: modules/momentum-slider/widgets/momentum-slider.php:696
+#: traits/global-swiper-controls.php:67 traits/global-swiper-controls.php:444
+msgid "Pagination"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:647
+msgid "Pagination Type"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:652
+#: traits/global-swiper-controls.php:80
+msgid "Bullets"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:653
+#: traits/global-swiper-controls.php:81
+msgid "Fraction"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:654
+#: traits/global-swiper-controls.php:82
+msgid "Progress Bar"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:662
+#: traits/global-swiper-controls.php:91
+msgid "Dynamic Bullets"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:671
+#: modules/advanced-slider/widgets/advanced-slider.php:695
+#: traits/global-swiper-controls.php:103 traits/global-swiper-controls.php:128
+msgid "Progress Bar Position"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:740
+msgid "Background Overlay"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:776
+msgid "Content Box"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:801
+msgid "Box Width (% is Perfect)"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:867
+#: modules/content-switcher/widgets/content-switcher.php:535
+#: modules/content-switcher/widgets/content-switcher.php:726
+#: modules/image-compare/widgets/image-compare.php:735
+#: modules/pdf-viewer/widgets/pdf-viewer.php:378
+#: modules/pdf-viewer/widgets/pdf-viewer.php:454
+#: modules/team-member/widgets/team-member.php:1689
+msgid "Margin"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:893
+#: modules/momentum-slider/widgets/momentum-slider.php:85
+msgid "Slider Image"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:922
+#: modules/advanced-slider/widgets/advanced-slider.php:959
+msgid "Image Opacity"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:985
+#: modules/card/widgets/card.php:727 modules/info-box/widgets/info-box.php:904
+#: modules/logo-carousel/widgets/logo-carousel.php:546
+#: modules/logo-grid/widgets/logo-grid.php:640
+#: modules/review/widgets/review.php:602
+#: modules/social-icons/widgets/social-icons.php:665
+#: modules/team-member/widgets/team-member.php:1138
+msgid "Hover Animation"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1010
+#: modules/advanced-slider/widgets/advanced-slider.php:1106
+#: modules/card/widgets/card.php:947 modules/card/widgets/card.php:1057
+#: modules/card/widgets/card.php:1165
+#: modules/info-box/widgets/info-box.php:932
+#: modules/info-box/widgets/info-box.php:1040
+#: modules/list-group/widgets/list-group.php:654
+#: modules/step-flow/widgets/step-flow.php:256
+#: modules/step-flow/widgets/step-flow.php:931
+#: modules/team-member/widgets/team-member.php:831
+#: modules/team-member/widgets/team-member.php:1165
+#: modules/team-member/widgets/team-member.php:1274
+#: modules/team-member/widgets/team-member.php:1381
+#: modules/testimonial/widgets/testimonial.php:199
+#: modules/tidy-list/widgets/tidy-list.php:695
+msgid "Bottom Spacing"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1042
+#: modules/advanced-slider/widgets/advanced-slider.php:1138
+#: modules/advanced-slider/widgets/advanced-slider.php:1245
+#: modules/advanced-slider/widgets/advanced-slider.php:1294
+#: modules/card/widgets/card.php:881 modules/card/widgets/card.php:988
+#: modules/card/widgets/card.php:1018 modules/card/widgets/card.php:1098
+#: modules/card/widgets/card.php:1128 modules/card/widgets/card.php:1207
+#: modules/card/widgets/card.php:1227 modules/card/widgets/card.php:1308
+#: modules/card/widgets/card.php:1356
+#: modules/content-switcher/widgets/content-switcher.php:345
+#: modules/content-switcher/widgets/content-switcher.php:410
+#: modules/content-switcher/widgets/content-switcher.php:738
+#: modules/dual-button/widgets/dual-button.php:528
+#: modules/dual-button/widgets/dual-button.php:599
+#: modules/dual-button/widgets/dual-button.php:720
+#: modules/dual-button/widgets/dual-button.php:791
+#: modules/dual-button/widgets/dual-button.php:903
+#: modules/glory-slider/widgets/glory-slider.php:723
+#: modules/glory-slider/widgets/glory-slider.php:801
+#: modules/glory-slider/widgets/glory-slider.php:922
+#: modules/glory-slider/widgets/glory-slider.php:971
+#: modules/image-compare/widgets/image-compare.php:575
+#: modules/image-compare/widgets/image-compare.php:796
+#: modules/image-compare/widgets/image-compare.php:858
+#: modules/info-box/widgets/info-box.php:973
+#: modules/info-box/widgets/info-box.php:1003
+#: modules/info-box/widgets/info-box.php:1081
+#: modules/info-box/widgets/info-box.php:1101
+#: modules/info-box/widgets/info-box.php:1162
+#: modules/info-box/widgets/info-box.php:1232
+#: modules/list-group/widgets/list-group.php:192
+#: modules/momentum-slider/widgets/momentum-slider.php:352
+#: modules/momentum-slider/widgets/momentum-slider.php:455
+#: modules/momentum-slider/widgets/momentum-slider.php:525
+#: modules/number/widgets/number.php:290
+#: modules/pdf-viewer/widgets/pdf-viewer.php:434
+#: modules/pdf-viewer/widgets/pdf-viewer.php:540
+#: modules/pdf-viewer/widgets/pdf-viewer.php:588
+#: modules/review/widgets/review.php:669 modules/review/widgets/review.php:698
+#: modules/review/widgets/review.php:777 modules/review/widgets/review.php:808
+#: modules/review/widgets/review.php:886 modules/review/widgets/review.php:906
+#: modules/step-flow/widgets/step-flow.php:858
+#: modules/step-flow/widgets/step-flow.php:972
+#: modules/step-flow/widgets/step-flow.php:1001
+#: modules/step-flow/widgets/step-flow.php:1056
+#: modules/step-flow/widgets/step-flow.php:1076
+#: modules/team-member/widgets/team-member.php:1206
+#: modules/team-member/widgets/team-member.php:1236
+#: modules/team-member/widgets/team-member.php:1314
+#: modules/team-member/widgets/team-member.php:1344
+#: modules/team-member/widgets/team-member.php:1421
+#: modules/team-member/widgets/team-member.php:1441
+#: modules/team-member/widgets/team-member.php:1731
+#: modules/team-member/widgets/team-member.php:1801
+#: modules/testimonial/widgets/testimonial.php:228
+#: modules/testimonial/widgets/testimonial.php:440
+#: modules/testimonial/widgets/testimonial.php:469
+msgid "Text Color"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1182
+#: modules/momentum-slider/widgets/momentum-slider.php:177
+#: modules/momentum-slider/widgets/momentum-slider.php:396
+msgid "Button / Link"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1360
+#: modules/card/widgets/card.php:1421
+#: modules/info-box/widgets/info-box.php:1297
+#: modules/logo-carousel/widgets/logo-carousel.php:272
+#: modules/logo-grid/widgets/logo-grid.php:254
+#: modules/pdf-viewer/widgets/pdf-viewer.php:653
+#: modules/team-member/widgets/team-member.php:1866
+msgid "Animation"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1584
+msgid "Bullet Size"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1604
+#: traits/global-swiper-controls.php:532
+msgid "Bullet Spacing"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1625
+#: traits/global-swiper-controls.php:553
+msgid "Progress Size"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1645
+#: traits/global-swiper-controls.php:513
+msgid "Bullet Radius(%)"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1664
+#: traits/global-swiper-controls.php:573
+msgid "Pagination Color"
+msgstr ""
+
+#: modules/advanced-slider/widgets/advanced-slider.php:1675
+#: traits/global-swiper-controls.php:584
+msgid "Pagination Active Color"
+msgstr ""
+
+#: modules/card/widgets/card.php:63 modules/info-box/widgets/info-box.php:93
+#: modules/list-group/widgets/list-group.php:106
+#: modules/portion-effect/widgets/portion-effect.php:56
+#: modules/review/widgets/review.php:67
+#: modules/team-member/widgets/team-member.php:148
+#: modules/team-member/widgets/team-member.php:181
+#: modules/testimonial/widgets/testimonial.php:112
+#: modules/tidy-list/widgets/tidy-list.php:132
+msgid "Choose Image"
+msgstr ""
+
+#: modules/card/widgets/card.php:84
+#: modules/team-member/widgets/team-member.php:110
+msgid "Image Position"
+msgstr ""
+
+#: modules/card/widgets/card.php:123
+msgid "Your Card Title"
+msgstr ""
+
+#: modules/card/widgets/card.php:124 modules/info-box/widgets/info-box.php:201
+#: modules/pdf-viewer/widgets/pdf-viewer.php:203
+#: modules/step-flow/widgets/step-flow.php:76
+msgid "Type your title here"
+msgstr ""
+
+#: modules/card/widgets/card.php:143
+msgid "Show Sub Title"
+msgstr ""
+
+#: modules/card/widgets/card.php:153 modules/card/widgets/card.php:156
+#: modules/card/widgets/card.php:935
+msgid "Sub Title"
+msgstr ""
+
+#: modules/card/widgets/card.php:157
+msgid "Type your sub title here"
+msgstr ""
+
+#: modules/card/widgets/card.php:168
+msgid "Sub Title HTML Tag"
+msgstr ""
+
+#: modules/card/widgets/card.php:181 modules/card/widgets/card.php:1154
+#: modules/info-box/widgets/info-box.php:220
+#: modules/info-box/widgets/info-box.php:1029
+#: modules/step-flow/widgets/step-flow.php:95
+#: modules/step-flow/widgets/step-flow.php:1027
+msgid "Description"
+msgstr ""
+
+#: modules/card/widgets/card.php:184
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis."
+msgstr ""
+
+#: modules/card/widgets/card.php:194
+#: modules/step-flow/widgets/step-flow.php:124
+msgid "Show Badge"
+msgstr ""
+
+#: modules/card/widgets/card.php:204 modules/card/widgets/card.php:207
+#: modules/step-flow/widgets/step-flow.php:134
+#: modules/step-flow/widgets/step-flow.php:137
+msgid "Badge Text"
+msgstr ""
+
+#: modules/card/widgets/card.php:206 modules/card/widgets/card.php:741
+#: modules/step-flow/widgets/step-flow.php:727
+msgid "Badge"
+msgstr ""
+
+#: modules/card/widgets/card.php:217
+#: modules/step-flow/widgets/step-flow.php:147
+msgid "Badge Position"
+msgstr ""
+
+#: modules/card/widgets/card.php:241 modules/info-box/widgets/info-box.php:232
+#: modules/team-member/widgets/team-member.php:301
+msgid "Show Button"
+msgstr ""
+
+#: modules/card/widgets/card.php:291 modules/info-box/widgets/info-box.php:288
+#: modules/team-member/widgets/team-member.php:581
+msgid "Full Width"
+msgstr ""
+
+#: modules/card/widgets/card.php:397
+msgid "Card Alignment"
+msgstr ""
+
+#: modules/card/widgets/card.php:426
+#: modules/glory-slider/widgets/glory-slider.php:703
+#: modules/info-box/widgets/info-box.php:425
+#: modules/step-flow/widgets/step-flow.php:234
+#: modules/team-member/widgets/team-member.php:716
+msgid "Content Padding"
+msgstr ""
+
+#: modules/card/widgets/card.php:488 modules/card/widgets/card.php:753
+#: modules/info-box/widgets/info-box.php:544
+#: modules/logo-carousel/widgets/logo-carousel.php:287
+#: modules/logo-grid/widgets/logo-grid.php:269
+#: modules/reading-progress/widgets/reading-progress.php:186
+#: modules/review/widgets/review.php:361
+#: modules/step-flow/widgets/step-flow.php:302
+#: modules/step-flow/widgets/step-flow.php:739
+#: modules/step-flow/widgets/step-flow.php:1177
+#: modules/team-member/widgets/team-member.php:895
+msgid "Offset"
+msgstr ""
+
+#: modules/card/widgets/card.php:499 modules/card/widgets/card.php:764
+#: modules/info-box/widgets/info-box.php:558
+#: modules/reading-progress/widgets/reading-progress.php:209
+#: modules/review/widgets/review.php:375
+#: modules/step-flow/widgets/step-flow.php:316
+#: modules/step-flow/widgets/step-flow.php:753
+#: modules/team-member/widgets/team-member.php:908
+msgid "Horizontal Offset"
+msgstr ""
+
+#: modules/card/widgets/card.php:530 modules/card/widgets/card.php:795
+#: modules/info-box/widgets/info-box.php:589
+#: modules/reading-progress/widgets/reading-progress.php:239
+#: modules/review/widgets/review.php:406
+#: modules/step-flow/widgets/step-flow.php:347
+#: modules/step-flow/widgets/step-flow.php:784
+#: modules/team-member/widgets/team-member.php:938
+msgid "Vertical Offset"
+msgstr ""
+
+#: modules/card/widgets/card.php:649 modules/card/widgets/card.php:684
+#: modules/info-box/widgets/info-box.php:776
+#: modules/info-box/widgets/info-box.php:856
+#: modules/logo-carousel/widgets/logo-carousel.php:448
+#: modules/logo-carousel/widgets/logo-carousel.php:502
+#: modules/logo-grid/widgets/logo-grid.php:542
+#: modules/logo-grid/widgets/logo-grid.php:596
+#: modules/momentum-slider/widgets/momentum-slider.php:650
+#: modules/review/widgets/review.php:524 modules/review/widgets/review.php:559
+#: modules/social-icons/widgets/social-icons.php:549
+#: modules/social-icons/widgets/social-icons.php:647
+#: modules/step-flow/widgets/step-flow.php:519
+#: modules/step-flow/widgets/step-flow.php:628
+#: modules/team-member/widgets/team-member.php:1060
+#: modules/team-member/widgets/team-member.php:1095
+msgid "Opacity"
+msgstr ""
+
+#: modules/card/widgets/card.php:710 modules/info-box/widgets/info-box.php:886
+#: modules/logo-carousel/widgets/logo-carousel.php:528
+#: modules/logo-grid/widgets/logo-grid.php:622
+#: modules/review/widgets/review.php:585
+#: modules/step-flow/widgets/step-flow.php:703
+#: modules/team-member/widgets/team-member.php:1121
+msgid "Transition Duration (s)"
+msgstr ""
+
+#: modules/card/widgets/card.php:1429
+msgid "Color Change on Card Hover?"
+msgstr ""
+
+#: modules/card/widgets/card.php:1431
+msgid ""
+"If you enable this setting, you will able to change the Button color on "
+"hover Card. It's only for extend design. "
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:61
+msgid "Switcher Type"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:65
+msgid "Round"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:66
+msgid "Round Fancy"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:67
+msgid "Square"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:68
+msgid "Square Fancy"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:79
+msgid "Note: Only the first 2 items will be visible."
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:95
+#: modules/content-switcher/widgets/content-switcher.php:200
+msgid "Primary"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:201
+#: modules/content-switcher/widgets/content-switcher.php:206
+#: modules/list-group/widgets/list-group.php:238
+#: modules/list-group/widgets/list-group.php:242
+#: modules/list-group/widgets/list-group.php:246
+#: modules/tidy-list/widgets/tidy-list.php:172
+#: modules/tidy-list/widgets/tidy-list.php:201
+#: modules/tidy-list/widgets/tidy-list.php:210
+#: modules/tidy-list/widgets/tidy-list.php:219
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:205
+msgid "Secondary"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:226
+msgid "Switcher Alignment"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:258
+#: modules/content-switcher/widgets/content-switcher.php:571
+msgid "Switcher"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:356
+#: modules/content-switcher/widgets/content-switcher.php:421
+#: modules/info-box/widgets/info-box.php:748
+#: modules/info-box/widgets/info-box.php:814
+#: modules/reading-progress/widgets/reading-progress.php:311
+#: modules/social-icons/widgets/social-icons.php:211
+#: modules/social-icons/widgets/social-icons.php:254
+#: modules/step-flow/widgets/step-flow.php:494
+#: modules/step-flow/widgets/step-flow.php:604
+#: modules/team-member/widgets/team-member.php:406
+#: modules/team-member/widgets/team-member.php:449
+msgid "Icon Color"
+msgstr ""
+
+#: modules/content-switcher/widgets/content-switcher.php:505
+msgid "Switcher Bar"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:52
+#: modules/dual-button/widgets/dual-button.php:448
+msgid "Dual Buttons"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:133
+msgid "Show Separator"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:143
+msgid "Content Type"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:170
+msgid "or"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:204
+#: modules/dual-button/widgets/dual-button.php:490
+msgid "Button A"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:215
+msgid "ABOUT US"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:330
+#: modules/dual-button/widgets/dual-button.php:682
+msgid "Button B"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:341
+msgid "READ MORE"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:874
+#: modules/social-icons/widgets/social-icons.php:754
+msgid "Separator"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:885
+#: modules/social-icons/widgets/social-icons.php:379
+msgid "Separator Size"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:966
+msgid "Icon A"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:1128
+msgid "Icon B"
+msgstr ""
+
+#: modules/equal-height/module.php:32
+msgid "Equal Height "
+msgstr ""
+
+#: modules/equal-height/module.php:44 modules/floating-effects/module.php:45
+msgid "Enable"
+msgstr ""
+
+#: modules/equal-height/module.php:54
+msgid "Apply Elements"
+msgstr ""
+
+#: modules/equal-height/module.php:59
+msgid "Widgets > 1st Element"
+msgstr ""
+
+#: modules/equal-height/module.php:60
+msgid "Widgets > 2nd Element"
+msgstr ""
+
+#: modules/equal-height/module.php:61
+msgid "Widgets > 3rd Element"
+msgstr ""
+
+#: modules/equal-height/module.php:62
+msgid "Widgets > Child > 1st Element"
+msgstr ""
+
+#: modules/equal-height/module.php:63
+msgid "Widgets > Child > 2nd Element"
+msgstr ""
+
+#: modules/equal-height/module.php:64
+msgid "Widgets > Child > Child > 1st Element"
+msgstr ""
+
+#: modules/equal-height/module.php:65
+#: modules/info-box/widgets/info-box.php:547
+#: modules/reading-progress/widgets/reading-progress.php:189
+#: modules/review/widgets/review.php:364
+#: modules/social-icons/widgets/social-icons.php:187
+#: modules/social-icons/widgets/social-icons.php:368
+#: modules/step-flow/widgets/step-flow.php:305
+#: modules/step-flow/widgets/step-flow.php:742
+#: modules/step-flow/widgets/step-flow.php:1180
+#: modules/team-member/widgets/team-member.php:898
+msgid "Custom"
+msgstr ""
+
+#: modules/equal-height/module.php:77
+msgid "Custom Selector"
+msgstr ""
+
+#: modules/equal-height/module.php:79
+msgid "Example - .class-name"
+msgstr ""
+
+#: modules/equal-height/module.php:91
+msgid "CSS Property"
+msgstr ""
+
+#: modules/equal-height/module.php:95
+msgid "Height (Default)"
+msgstr ""
+
+#: modules/equal-height/module.php:96
+msgid "Min-Height"
+msgstr ""
+
+#: modules/equal-height/module.php:108
+msgid "Disable on Tablet"
+msgstr ""
+
+#: modules/equal-height/module.php:122
+msgid "Disable on Mobile"
+msgstr ""
+
+#: modules/floating-effects/module.php:55
+msgid "Translate"
+msgstr ""
+
+#: modules/floating-effects/module.php:70
+msgid "Translate X"
+msgstr ""
+
+#: modules/floating-effects/module.php:86
+#: modules/floating-effects/module.php:119
+#: modules/floating-effects/module.php:216
+#: modules/floating-effects/module.php:249
+#: modules/floating-effects/module.php:282
+#: modules/floating-effects/module.php:382
+#: modules/floating-effects/module.php:416
+#: modules/floating-effects/module.php:515
+#: modules/floating-effects/module.php:548
+msgid "From"
+msgstr ""
+
+#: modules/floating-effects/module.php:87
+#: modules/floating-effects/module.php:120
+#: modules/floating-effects/module.php:217
+#: modules/floating-effects/module.php:250
+#: modules/floating-effects/module.php:283
+#: modules/floating-effects/module.php:383
+#: modules/floating-effects/module.php:417
+#: modules/floating-effects/module.php:516
+#: modules/floating-effects/module.php:549
+msgid "To"
+msgstr ""
+
+#: modules/floating-effects/module.php:103
+msgid "Translate Y"
+msgstr ""
+
+#: modules/floating-effects/module.php:161
+#: modules/floating-effects/module.php:324
+#: modules/floating-effects/module.php:458
+#: modules/floating-effects/module.php:590
+msgid "Delay"
+msgstr ""
+
+#: modules/floating-effects/module.php:200
+msgid "Rotate X"
+msgstr ""
+
+#: modules/floating-effects/module.php:233
+#: modules/portion-effect/widgets/portion-effect.php:244
+msgid "Rotate Y"
+msgstr ""
+
+#: modules/floating-effects/module.php:266
+msgid "Rotate Z"
+msgstr ""
+
+#: modules/floating-effects/module.php:349
+#: modules/logo-carousel/widgets/logo-carousel.php:278
+#: modules/logo-grid/widgets/logo-grid.php:260
+msgid "Scale"
+msgstr ""
+
+#: modules/floating-effects/module.php:365
+msgid "Scale X"
+msgstr ""
+
+#: modules/floating-effects/module.php:399
+msgid "Scale Y"
+msgstr ""
+
+#: modules/floating-effects/module.php:483
+msgid "Skew"
+msgstr ""
+
+#: modules/floating-effects/module.php:499
+msgid "Skew X"
+msgstr ""
+
+#: modules/floating-effects/module.php:532
+msgid "Skew Y"
+msgstr ""
+
+#: modules/floating-effects/module.php:614
+msgid "Easing"
+msgstr ""
+
+#: modules/floating-effects/module.php:619
+msgid "easeInQuart"
+msgstr ""
+
+#: modules/floating-effects/module.php:620
+msgid "easeInQuint"
+msgstr ""
+
+#: modules/floating-effects/module.php:621
+msgid "easeInSine"
+msgstr ""
+
+#: modules/floating-effects/module.php:622
+msgid "easeInExpo"
+msgstr ""
+
+#: modules/floating-effects/module.php:623
+msgid "easeInCirc"
+msgstr ""
+
+#: modules/floating-effects/module.php:624
+msgid "easeInBack"
+msgstr ""
+
+#: modules/floating-effects/module.php:625
+msgid "easeInBounce"
+msgstr ""
+
+#: modules/floating-effects/module.php:626
+msgid "easeOutQuart"
+msgstr ""
+
+#: modules/floating-effects/module.php:627
+msgid "easeOutQuint"
+msgstr ""
+
+#: modules/floating-effects/module.php:628
+msgid "easeOutSine"
+msgstr ""
+
+#: modules/floating-effects/module.php:629
+msgid "easeOutExpo"
+msgstr ""
+
+#: modules/floating-effects/module.php:630
+msgid "easeOutCirc"
+msgstr ""
+
+#: modules/floating-effects/module.php:631
+msgid "easeOutBack"
+msgstr ""
+
+#: modules/floating-effects/module.php:632
+msgid "easeOutBounce"
+msgstr ""
+
+#: modules/floating-effects/module.php:633
+msgid "easeInOutQuart"
+msgstr ""
+
+#: modules/floating-effects/module.php:634
+msgid "easeInOutQuint"
+msgstr ""
+
+#: modules/floating-effects/module.php:635
+msgid "easeInOutSine"
+msgstr ""
+
+#: modules/floating-effects/module.php:636
+msgid "easeInOutExpo"
+msgstr ""
+
+#: modules/floating-effects/module.php:637
+msgid "easeInOutCirc"
+msgstr ""
+
+#: modules/floating-effects/module.php:638
+msgid "easeInOutBack"
+msgstr ""
+
+#: modules/floating-effects/module.php:639
+msgid "easeInOutBounce"
+msgstr ""
+
+#: modules/floating-effects/module.php:640
+msgid "easeOutInQuart"
+msgstr ""
+
+#: modules/floating-effects/module.php:641
+msgid "easeOutInQuint"
+msgstr ""
+
+#: modules/floating-effects/module.php:642
+msgid "easeOutInSine"
+msgstr ""
+
+#: modules/floating-effects/module.php:643
+msgid "easeOutInExpo"
+msgstr ""
+
+#: modules/floating-effects/module.php:644
+msgid "easeOutInCirc"
+msgstr ""
+
+#: modules/floating-effects/module.php:645
+msgid "easeOutInBack"
+msgstr ""
+
+#: modules/floating-effects/module.php:646
+msgid "easeOutInBounce"
+msgstr ""
+
+#: modules/glory-slider/module.info.php:7
+#: modules/glory-slider/widgets/glory-slider.php:30
+#: modules/glory-slider/widgets/glory-slider.php:61
+msgid "Glory Video Slider"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:70
+msgid ""
+"Note: We recommend that you select full width for your Section and disable "
+"any gaps between Columns."
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:102
+msgid "Video"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:109
+msgid "Source"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:113
+msgid "YouTube"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:114
+msgid "Vimeo"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:115
+msgid "Dailymotion"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:116
+msgid "Self Hosted"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:133
+#: modules/glory-slider/widgets/glory-slider.php:154
+#: modules/glory-slider/widgets/glory-slider.php:175
+#: modules/glory-slider/widgets/glory-slider.php:212
+msgid "Enter your URL"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:187
+msgid "External URL"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:198
+msgid "URL"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:223
+msgid "Choose File"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:254
+#: modules/list-group/widgets/list-group.php:135
+#: modules/tidy-list/widgets/tidy-list.php:161
+msgid "List Title"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:264
+msgid "Credit / Subtitle"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:266
+#: modules/glory-slider/widgets/glory-slider.php:329
+#: modules/glory-slider/widgets/glory-slider.php:350
+msgid "by John Doe"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:275
+msgid "Add Credit URL"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:283
+msgid "Credit URL"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:301
+#: modules/glory-slider/widgets/glory-slider.php:308
+msgid "Poster"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:328
+msgid "Youtube Video Title #1"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:332
+msgid "Vimeo Video Title #2"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:333
+msgid "by Mark Doe"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:337
+msgid "Dailymotion Video Title #3"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:338
+msgid "by Fatin Rushdi "
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:342
+msgid "Remote Video Title #4"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:343
+msgid "by Mike Ross"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:349
+msgid "Youtube Video Title #5"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:353
+msgid "Youtube Video Title #6"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:354
+msgid "by Mike Doe"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:357
+msgid "Youtube Video Title #7"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:358
+msgid "by Michael N. Chiles"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:372
+msgid "Player Settings"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:380
+#: traits/global-swiper-controls.php:856
+msgid "Slide Speed (ms)"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:399
+#: traits/global-swiper-controls.php:701
+msgid "Coverflow Effect"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:413
+#: traits/global-swiper-controls.php:715
+msgid "Depth"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:435
+#: traits/global-swiper-controls.php:737
+msgid "Modifier"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:480
+#: traits/global-swiper-controls.php:782
+msgid "Stretch"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:535
+msgid "Text Position"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:567
+msgid "Text Alignment"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:596
+msgid "Show Play Button On Hover"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:607
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:615
+#: traits/global-swiper-controls.php:639
+msgid "Item Gap"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:638
+msgid "Mouse Wheel"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:684
+msgid "Player Content"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:692
+msgid "Poster Overlay"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:716
+msgid "T I T L E"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:775
+msgid "C R E D I T / S U B T I T L E"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:854
+msgid "Play Button"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:862
+#: modules/info-box/widgets/info-box.php:447
+#: modules/reading-progress/widgets/reading-progress.php:326
+#: modules/social-icons/widgets/social-icons.php:688
+#: modules/step-flow/widgets/step-flow.php:279
+#: modules/team-member/widgets/team-member.php:1492
+msgid "Icon Size"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:1032
+msgid "Thumbnail"
+msgstr ""
+
+#: modules/glory-slider/widgets/glory-slider.php:1084
+msgid "Border Color Active"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:65
+msgid "Before Image"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:77
+msgid "After Image"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:99
+msgid "Show Labels"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:109
+msgid "Before Text"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:122
+msgid "After Text"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:135
+msgid "Show Label Options on Hover"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:150
+msgid "Labels Position"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:159
+#: modules/image-compare/widgets/image-compare.php:285
+msgid "Middle"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:192
+msgid "Labels Position Vertical"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:222
+msgid "Show Content"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:246
+msgid "Before & After"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:267
+msgid "-Lorem ipsum dolor sit amet, consectetur adipiscing elit-"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:268
+msgid "Type your content here"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:276
+msgid "Content Area Position"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:326
+msgid "Vertical Mode"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:336
+msgid "UI Options"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:345
+msgid "Control Color"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:353
+msgid "Control Shadow"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:362
+msgid "Add Circle"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:370
+msgid "Add Circle Blur"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:383
+#: modules/image-compare/widgets/image-compare.php:392
+msgid "Smoothing"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:401
+msgid "Smoothing Amount"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:425
+msgid "Other Options"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:434
+msgid "Hover Start"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:442
+msgid "Starting Point"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:461
+msgid "The percentage to show of the before image."
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:469
+msgid "Fluid Mode"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:478
+msgid ""
+"While by default a viewers height is set by the image, you must set your own "
+"height when using fluid mode."
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:522
+#: modules/image-compare/widgets/image-compare.php:530
+#: modules/team-member/widgets/team-member.php:786
+msgid "Overlay"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:539
+#: modules/team-member/widgets/team-member.php:797
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:555
+msgid "Labels"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:697
+msgid "Justify"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:71
+#: modules/list-group/widgets/list-group.php:70
+#: modules/tidy-list/widgets/tidy-list.php:95
+msgid "Media Type"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:135
+#: modules/review/widgets/review.php:89
+#: modules/tidy-list/widgets/tidy-list.php:242
+msgid "Media Position"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:162
+msgid "Vertical Alignment"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:200
+msgid "Your Info Box Title"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:222
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:439
+msgid "Image / Icon"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:692
+#: modules/number/widgets/number.php:205
+#: modules/social-icons/widgets/social-icons.php:484
+#: modules/step-flow/widgets/step-flow.php:448
+#: modules/team-member/widgets/team-member.php:1549
+#: modules/testimonial/widgets/testimonial.php:357
+msgid "Advanced Border Radius"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:700
+#: modules/number/widgets/number.php:213
+#: modules/social-icons/widgets/social-icons.php:492
+#: modules/step-flow/widgets/step-flow.php:456
+#: modules/team-member/widgets/team-member.php:1557
+#: modules/testimonial/widgets/testimonial.php:365
+msgid "Radius"
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:702
+#: modules/number/widgets/number.php:215
+#: modules/social-icons/widgets/social-icons.php:494
+#: modules/step-flow/widgets/step-flow.php:458
+#: modules/team-member/widgets/team-member.php:1559
+#: modules/testimonial/widgets/testimonial.php:367
+msgid "30% 70% 70% 30% / 30% 30% 70% 70% "
+msgstr ""
+
+#: modules/info-box/widgets/info-box.php:717
+#: modules/number/widgets/number.php:230
+#: modules/step-flow/widgets/step-flow.php:473
+#: modules/testimonial/widgets/testimonial.php:382
+#, php-format
+msgid ""
+"You can easily generate Radius value from this link <a href='%1s' "
+"target='_blank'> Go </a>."
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:123
+#: modules/number/widgets/number.php:60
+#: modules/tidy-list/widgets/tidy-list.php:149
+#: traits/global-swiper-controls.php:886
+msgid "1"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:154
+msgid "Direction Icon"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:168
+msgid "Customize?"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:178
+msgid "Title Color"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:237
+#: modules/tidy-list/widgets/tidy-list.php:200
+msgid "List Title #1"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:241
+#: modules/tidy-list/widgets/tidy-list.php:209
+msgid "List Title #2"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:245
+#: modules/tidy-list/widgets/tidy-list.php:218
+msgid "List Title #3"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:257
+#: modules/step-flow/widgets/step-flow.php:167
+msgid "Show Direction"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:322
+#: modules/tidy-list/widgets/tidy-list.php:331
+msgid "List"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:479
+#: modules/tidy-list/widgets/tidy-list.php:523
+msgid "Media"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:562
+#: modules/tidy-list/widgets/tidy-list.php:606
+msgid "Number / Icon"
+msgstr ""
+
+#: modules/list-group/widgets/list-group.php:687
+#: modules/list-group/widgets/list-group.php:750
+#: modules/tidy-list/widgets/tidy-list.php:728
+#: modules/tidy-list/widgets/tidy-list.php:791
+msgid "Hover Color"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:80
+#: modules/logo-grid/widgets/logo-grid.php:74
+msgid "Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:83
+msgid "1 Column"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:84
+#: modules/logo-grid/widgets/logo-grid.php:77
+msgid "2 Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:85
+#: modules/logo-grid/widgets/logo-grid.php:78
+msgid "3 Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:86
+#: modules/logo-grid/widgets/logo-grid.php:79
+msgid "4 Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:87
+#: modules/logo-grid/widgets/logo-grid.php:80
+msgid "5 Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:88
+#: modules/logo-grid/widgets/logo-grid.php:81
+msgid "6 Columns"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:102
+#: modules/logo-grid/widgets/logo-grid.php:97
+msgid "Logo"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:129
+#: modules/logo-carousel/widgets/logo-carousel.php:133
+#: modules/logo-grid/widgets/logo-grid.php:124
+#: modules/logo-grid/widgets/logo-grid.php:128
+msgid "Brand Name"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:141
+#: modules/logo-grid/widgets/logo-grid.php:136
+msgid "Brand Text"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:145
+#: modules/logo-grid/widgets/logo-grid.php:140
+msgid "Create an Enticing Logo Display Website."
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:152
+#: modules/logo-grid/widgets/logo-grid.php:147
+msgid "Show Tooltip"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:160
+#: modules/logo-grid/widgets/logo-grid.php:155
+msgid "Tooltip Placement"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:168
+#: modules/logo-grid/widgets/logo-grid.php:163
+msgid "Auto"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:179
+#: modules/logo-grid/widgets/logo-grid.php:174
+msgid "Logo List"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:210
+#: modules/logo-grid/widgets/logo-grid.php:230
+#: modules/team-member/widgets/team-member.php:72
+msgid "Select Style"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:215
+#: modules/logo-grid/widgets/logo-grid.php:234
+msgid "Box"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:233
+msgid "Image Cover"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:264
+#: modules/logo-grid/widgets/logo-grid.php:246
+msgid "Tooltip Settings"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:276
+#: modules/logo-grid/widgets/logo-grid.php:258
+msgid "Shift-Away"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:277
+#: modules/logo-grid/widgets/logo-grid.php:259
+msgid "Shift-Toward"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:279
+#: modules/logo-grid/widgets/logo-grid.php:261
+msgid "Perspective"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:298
+#: modules/logo-grid/widgets/logo-grid.php:280
+msgid "X Offset"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:325
+#: modules/logo-grid/widgets/logo-grid.php:307
+msgid "Y Offset"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:355
+#: modules/logo-grid/widgets/logo-grid.php:337
+msgid "Show Arrow"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:364
+#: modules/logo-grid/widgets/logo-grid.php:346
+msgid "Trigger on Click"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:366
+#: modules/logo-grid/widgets/logo-grid.php:348
+msgid ""
+"By default tooltip will show on hover, if you will activate this option "
+"tooltip will show on click."
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:376
+msgid "Carousel Item"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:574
+#: modules/logo-grid/widgets/logo-grid.php:654
+msgid "Tooltip"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:745
+#: modules/logo-grid/widgets/logo-grid.php:825
+msgid "A R R O W - S T Y L E"
+msgstr ""
+
+#: modules/logo-carousel/widgets/logo-carousel.php:754
+#: modules/logo-grid/widgets/logo-grid.php:834
+msgid "Arrow Color"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:236
+msgid "Magic Border"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:366
+msgid "Row Spacing"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:388
+msgid "Column Spacing"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:445
+msgid "Border Type"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:450
+#: modules/review/widgets/review.php:258
+#: modules/step-flow/widgets/step-flow.php:1120
+msgid "Solid"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:451
+msgid "Double"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:452
+#: modules/step-flow/widgets/step-flow.php:1121
+msgid "Dotted"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:453
+#: modules/step-flow/widgets/step-flow.php:1122
+msgid "Dashed"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:454
+msgid "Groove"
+msgstr ""
+
+#: modules/logo-grid/widgets/logo-grid.php:465
+msgid "Border Size"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:77
+msgid "Slider Title"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:118
+msgid "Add Your Text Here #1"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:121
+msgid "Add Your Text Here #2"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:124
+msgid "Add Your Text Here #3"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:127
+msgid "Add Your Text Here #4"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:148
+msgid "Hide Number"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:166
+msgid "Hide Pagination"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:191
+msgid "Read more"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:604
+msgid "Images"
+msgstr ""
+
+#: modules/momentum-slider/widgets/momentum-slider.php:757
+msgid "Active Color"
+msgstr ""
+
+#: modules/number/widgets/number.php:68
+msgid "Number Animation"
+msgstr ""
+
+#: modules/number/widgets/number.php:78
+msgid "Animation Duration"
+msgstr ""
+
+#: modules/number/widgets/number.php:251
+msgid "Background Rotate"
+msgstr ""
+
+#: modules/number/widgets/number.php:272
+msgid ""
+"If you see scrollbar on your design of Number widget. Please use padding "
+"from Advanced Tab to fix it. And Text rotate option on the Text Style "
+"Section."
+msgstr ""
+
+#: modules/number/widgets/number.php:319
+msgid "Text Rotate"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:67
+msgid "Select Source"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:71
+msgid "Hosted File"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:72
+#: modules/pdf-viewer/widgets/pdf-viewer.php:102
+msgid "Remote URL"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:80
+msgid "Local File"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:125
+msgid "Opened Page"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:128
+msgid ""
+"Any number entered here will cause the PDF be opened to the specified page "
+"number, if the browser supports it. If left unspecified, the PDF will open "
+"on page 1."
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:137
+msgid "Additional Settings"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:202
+msgid "Simple PDF File"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:227
+msgid "Show Download Button"
+msgstr ""
+
+#: modules/pdf-viewer/widgets/pdf-viewer.php:669
+msgid "Sorry, PDF File is empty. Please upload or use proper URL of PDF file."
+msgstr ""
+
+#: modules/portion-effect/widgets/portion-effect.php:141
+msgid "Blocks"
+msgstr ""
+
+#: modules/portion-effect/widgets/portion-effect.php:159
+msgid "Portion"
+msgstr ""
+
+#: modules/portion-effect/widgets/portion-effect.php:199
+msgid "Angle"
+msgstr ""
+
+#: modules/portion-effect/widgets/portion-effect.php:217
+msgid "Left Side"
+msgstr ""
+
+#: modules/portion-effect/widgets/portion-effect.php:262
+msgid "Brightness"
+msgstr ""
+
+#: modules/reading-progress/skins/skin-fancy-horizontal.php:23
+msgid "Fancy Horizontal"
+msgstr ""
+
+#: modules/reading-progress/skins/skin-fancy-vertical.php:23
+msgid "Fancy Vertical"
+msgstr ""
+
+#: modules/reading-progress/skins/skin-scroll-top.php:23
+msgid "Scroll Top"
+msgstr ""
+
+#: modules/reading-progress/skins/skin-with-cursor.php:23
+msgid "With Cursor"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:88
+#: modules/reading-progress/widgets/reading-progress.php:111
+msgid "Select Position"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:157
+#: traits/global-swiper-controls.php:239
+msgid "Position"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:161
+msgid "Right top"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:162
+msgid "Right Bottom"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:163
+msgid "Left Top"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:349
+msgid "Percentage"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:360
+msgid "Value Color"
+msgstr ""
+
+#: modules/reading-progress/widgets/reading-progress.php:371
+msgid "Percentage Color"
+msgstr ""
+
+#: modules/review/widgets/review.php:126 modules/review/widgets/review.php:616
+#: modules/team-member/widgets/team-member.php:208
+#: modules/team-member/widgets/team-member.php:1154
+#: modules/testimonial/widgets/testimonial.php:135
+#: modules/testimonial/widgets/testimonial.php:431
+msgid "Name"
+msgstr ""
+
+#: modules/review/widgets/review.php:128
+msgid "Name Surname"
+msgstr ""
+
+#: modules/review/widgets/review.php:129
+msgid "Type your Name here"
+msgstr ""
+
+#: modules/review/widgets/review.php:138
+#: modules/team-member/widgets/team-member.php:220
+msgid "Name HTML Tag"
+msgstr ""
+
+#: modules/review/widgets/review.php:148
+msgid "Show Designation"
+msgstr ""
+
+#: modules/review/widgets/review.php:158 modules/review/widgets/review.php:724
+msgid "Designation"
+msgstr ""
+
+#: modules/review/widgets/review.php:161
+msgid "POSITION"
+msgstr ""
+
+#: modules/review/widgets/review.php:162
+msgid "Type your Designation here"
+msgstr ""
+
+#: modules/review/widgets/review.php:173
+msgid "Designation HTML Tag"
+msgstr ""
+
+#: modules/review/widgets/review.php:189
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus."
+msgstr ""
+
+#: modules/review/widgets/review.php:190
+msgid "Type your review here"
+msgstr ""
+
+#: modules/review/widgets/review.php:191
+msgid "You can also put basic html tags on this input field."
+msgstr ""
+
+#: modules/review/widgets/review.php:203 modules/review/widgets/review.php:223
+#: modules/review/widgets/review.php:923
+msgid "Rating"
+msgstr ""
+
+#: modules/review/widgets/review.php:210
+msgid "Rating Scale"
+msgstr ""
+
+#: modules/review/widgets/review.php:254
+msgid "Unmarked Style"
+msgstr ""
+
+#: modules/review/widgets/review.php:262
+msgid "Outline"
+msgstr ""
+
+#: modules/review/widgets/review.php:273
+msgid "Review Position"
+msgstr ""
+
+#: modules/review/widgets/review.php:277
+msgid "Before Rating"
+msgstr ""
+
+#: modules/review/widgets/review.php:278
+msgid "After Rating"
+msgstr ""
+
+#: modules/review/widgets/review.php:296
+msgid "Text Box Padding"
+msgstr ""
+
+#: modules/review/widgets/review.php:310
+msgid "Photo"
+msgstr ""
+
+#: modules/review/widgets/review.php:1001
+msgid "Unmarked Color"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:162
+msgid "Enable Social Name"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:170
+msgid "Social Name"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:182
+msgid "Customize"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:186
+msgid "Official Color"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:223
+#: modules/social-icons/widgets/social-icons.php:266
+#: modules/team-member/widgets/team-member.php:418
+#: modules/team-member/widgets/team-member.php:461
+msgid "Background Color"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:347
+msgid "Hide Social Name"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:355
+msgid "Show separator"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:363
+msgid "Separator Type"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:401
+msgid "Custom Separator"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:403
+msgid "/"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:518
+#: modules/social-icons/widgets/social-icons.php:576
+#: modules/team-member/widgets/team-member.php:1584
+#: modules/team-member/widgets/team-member.php:1617
+msgid "Icons Color"
+msgstr ""
+
+#: modules/social-icons/widgets/social-icons.php:711
+msgid "Label"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:75
+msgid "Your Step Heading"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:98
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus "
+"luctus nec."
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:136
+msgid "Step 1"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:177
+msgid "Direction Type"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:181
+msgid "Arrow"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:182
+msgid "Line"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:546
+#: modules/step-flow/widgets/step-flow.php:655
+msgid "SVG Using?"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:555
+#: modules/step-flow/widgets/step-flow.php:664
+msgid "Please activate this option if you are using SVG image as a Icon."
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:566
+#: modules/step-flow/widgets/step-flow.php:675
+msgid "Fill Color"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:580
+#: modules/step-flow/widgets/step-flow.php:689
+msgid "Stroke Color"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:1116
+msgid "Style"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:1134
+msgid "Thickness"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:1191
+msgid "Offset Top"
+msgstr ""
+
+#: modules/step-flow/widgets/step-flow.php:1219
+msgid "Offset Left"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:64
+msgid "Member Info"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:77
+msgid "Ardent"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:78
+msgid "Folk"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:79
+msgid "Folker"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:81
+msgid "Mold"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:91
+msgid "Slide Effect"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:95
+msgid "Top to Bottom"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:96
+msgid "Bottom to Top"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:98
+msgid "Right to Left"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:170
+msgid "Alternative Image"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:210
+msgid "John Doe"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:211
+msgid "Type name here"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:230
+msgid "Show Job Title"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:240
+#: modules/team-member/widgets/team-member.php:1262
+msgid "Job Title"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:243
+msgid "Software Engineer"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:244
+msgid "Type your job title here"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:255
+msgid "Job Title HTML Tag"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:268
+msgid "Short Text"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:270
+msgid "Type your text here"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:280
+msgid ""
+"In this style (mold), the Short Text will not visible for design purposes."
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:291
+msgid "Show Social Icons"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:310
+msgid "In this style (mold), the Button will not visible for design purposes."
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:325
+msgid "Social Media"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:340
+msgid "Social Title"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:364
+msgid "Choose Icon"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:491
+msgid "Facebook"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:499
+msgid "Twitter"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:507
+msgid "Linkedin"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:540
+msgid "Button Position"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:544
+msgid "After Social Icons"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:545
+msgid "Before Social Icons"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:679
+msgid "Member"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:730
+msgid "Mold Content"
+msgstr ""
+
+#: modules/testimonial/widgets/testimonial.php:104
+#: modules/testimonial/widgets/testimonial.php:404
+msgid "Reviewer"
+msgstr ""
+
+#: modules/wrapper-link/module.php:39
+msgid "Wrapper Links"
+msgstr ""
+
+#: traits/global-swiper-controls.php:75
+msgid "Type"
+msgstr ""
+
+#: traits/global-swiper-controls.php:455
+msgid "Vertical Position"
+msgstr ""
+
+#: traits/global-swiper-controls.php:473
+msgid "Bullet Height"
+msgstr ""
+
+#: traits/global-swiper-controls.php:493
+msgid "Bullet Width"
+msgstr ""
+
+#: traits/global-swiper-controls.php:611
+msgid "Carousel Settings"
+msgstr ""
+
+#: traits/global-swiper-controls.php:826
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: traits/global-swiper-controls.php:883
+msgid "Slides Per Group"
+msgstr ""
+
+#: traits/global-swiper-controls.php:887
+msgid "2"
+msgstr ""
+
+#: traits/global-swiper-controls.php:888
+msgid "3"
+msgstr ""
+
+#: traits/global-swiper-controls.php:889
+msgid "4"
+msgstr ""
+
+#: traits/global-swiper-controls.php:890
+msgid "5"
+msgstr ""
+
+#: traits/global-swiper-controls.php:891
+msgid "6"
+msgstr ""
+
+#: traits/global-swiper-controls.php:914
+msgid "Centered Slides"
+msgstr ""
+
+#: traits/global-swiper-controls.php:923
+msgid "Grab Cursor"
+msgstr ""
+
+#: traits/global-swiper-controls.php:931
+msgid "Free Mode"
+msgstr ""

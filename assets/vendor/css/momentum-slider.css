@@ -1,0 +1,405 @@
+.sa-momentum-slider .ms--images {
+    position: relative;
+    overflow: hidden;
+}
+
+.sa-momentum-slider .ms--images.ms-container--horizontal {
+    width: 100%;
+    height: 400px;
+    max-width: 100%;
+}
+
+.sa-momentum-slider .ms--images.ms-container--horizontal .ms-track {
+    left: calc(50% - 350px);
+}
+
+.sa-momentum-slider .ms--images.ms-container--horizontal .ms-slide {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+.sa-momentum-slider .ms--images .ms-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sa-momentum-slider .ms--images .ms-slide {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sa-momentum-slider .ms--images {
+    left: calc(50% - 280px);
+}
+
+.sa-momentum-slider .ms--images.ms-container--horizontal .ms-track {
+    left: -70px;
+}
+
+/* // .sa-momentum-slider .ms--images .ms-slide:nth-child(1) .ms-slide__image {
+    //   background-image: url("http://localhost:8012/portfolio-carousel/img/harvey-gibson-498362-unsplash.jpg");
+    // } */
+
+.sa-momentum-slider .ms--images .ms-slide__image-container {
+    width: 95%;
+    height: 80%;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.sa-momentum-slider .ms--images .ms-slide__image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.sa-momentum-slider .ms--numbers {
+    position: relative;
+    overflow: hidden;
+}
+
+.sa-momentum-slider .ms--numbers.ms-container--horizontal {
+    width: 240px;
+    height: 240px;
+    max-width: 100%;
+}
+
+.sa-momentum-slider .ms--numbers.ms-container--horizontal .ms-track {
+    left: calc(50% - 120px);
+}
+
+.sa-momentum-slider .ms--numbers.ms-container--horizontal .ms-slide {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+.sa-momentum-slider .ms--numbers .ms-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sa-momentum-slider .ms--numbers .ms-slide {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 240px;
+    height: 240px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sa-momentum-slider .ms--numbers {
+    position: absolute;
+    left: calc(50% - 380px);
+    top: calc(50% - 300px);
+    pointer-events: none;
+    z-index: 1
+}
+
+.sa-momentum-slider .ms--numbers .ms-slide {
+    font-size: 9em;
+    font-weight: 900;
+    color: rgba(27, 24, 24, .20);
+}
+
+.sa-momentum-slider .ms--titles {
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.sa-momentum-slider .ms--titles.ms-container--vertical {
+    width: 400px;
+    height: 170px;
+    max-height: 100%;
+}
+
+.sa-momentum-slider .ms--titles.ms-container--vertical .ms-track {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    top: calc(50% - 85px);
+}
+
+.sa-momentum-slider .ms--titles.ms-container--vertical.ms-container--reverse .ms-track {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    top: auto;
+    bottom: calc(50% - 85px);
+}
+
+.sa-momentum-slider .ms--titles.ms-container--vertical .ms-slide {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.sa-momentum-slider .ms--titles .ms-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sa-momentum-slider .ms--titles .ms-slide {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 400px;
+    height: 170px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sa-momentum-slider .ms--titles {
+    position: absolute;
+    left: calc(50% - 420px);
+    top: calc(50% - 85px);
+    z-index: 1;
+    pointer-events: none;
+}
+
+.sa-momentum-slider .ms--titles .ms-track {
+    white-space: normal;
+}
+
+.sa-momentum-slider .ms--titles .ms-slide-title {
+    font-size: 3.3em;
+    font-weight: 600;
+    color: #8441A4;
+    font-family: sans-serif;
+}
+
+.sa-momentum-slider .ms--links {
+    position: relative;
+    overflow: hidden;
+}
+
+.sa-momentum-slider .ms--links.ms-container--vertical {
+    width: 120px;
+    height: 60px;
+    max-height: 100%;
+}
+
+.sa-momentum-slider .ms--links.ms-container--vertical .ms-track {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    top: calc(50% - 30px);
+}
+
+.sa-momentum-slider .ms--links.ms-container--vertical .ms-slide {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.sa-momentum-slider .ms--links .ms-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sa-momentum-slider .ms--links .ms-slide {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    justify-content: left;
+    width: 120px;
+    height: 60px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sa-momentum-slider .ms--links {
+    position: absolute;
+    left: calc(50% - 420px);
+    top: calc(50% + 105px);
+    z-index: 1;
+}
+
+.sa-momentum-slider .ms--links .ms-track {
+    white-space: normal;
+}
+
+.sa-momentum-slider .ms--links .ms-slide__link {
+    color: #0274be;
+    font-weight: 600;
+    padding: 5px 0 8px;
+    border-bottom: 2px solid #8441A4;
+    cursor: pointer;
+}
+
+.sa-momentum-slider .ms--links .ms-slide__link:hover {
+    color: #0a0a0a;
+}
+
+.momentum-slider-pagination {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    left: calc(50% - 425px);
+    top: calc(85%);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.sa-momentum-slider .pagination__button {
+    display: inline-block;
+    position: relative;
+    width: 36px;
+    /* //height: 20px; */
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.sa-momentum-slider .pagination__button:before, .sa-momentum-slider .pagination__button:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: calc(50% - 1px);
+    width: 100%;
+}
+
+.sa-momentum-slider .pagination__button:before {
+    height: 3px;
+    background-color: #8441A4;
+}
+
+.sa-momentum-slider .pagination__button:after {
+    height: 3px;
+    background-color: #E052BD;
+    opacity: 0;
+    -webkit-transition: 0.5s opacity;
+    -o-transition: 0.5s opacity;
+    transition: 0.5s opacity;
+}
+
+.sa-momentum-slider .pagination__item--active .pagination__button:after {
+    opacity: 1;
+}
+
+@media screen and (max-width: 991px) {
+    .sa-momentum-slider .ms--links, .sa-momentum-slider .ms--titles, .momentum-slider-pagination {
+        left: calc(50% - 350px);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .sa-momentum-slider .ms--numbers {
+        left: calc(50% - 120px);
+    }
+
+    .sa-momentum-slider .ms--titles {
+        left: calc(50% - 200px);
+        /* //top: calc(50% - 135px); */
+        text-align: center;
+    }
+
+    .sa-momentum-slider .ms--links {
+        left: calc(50% - 60px);
+        top: calc(50% + 80px);
+    }
+
+    .sa-momentum-slider .ms--links .ms-slide {
+        justify-content: center;
+    }
+
+    .momentum-slider-pagination {
+        left: 50%;
+        top: calc(100% - 50px);
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .sa-momentum-slider .ms--images {
+        overflow: visible;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .sa-momentum-slider .ms--titles .ms-slide {
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+    }
+}
+
+
+.sliders-container {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+
+    min-height: 550px;
+    overflow: hidden;
+}
